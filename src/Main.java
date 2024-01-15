@@ -73,6 +73,9 @@ public class Main {
         }
 
         runTournament();
+
+        System.out.println();
+        System.out.println(getTeam(squads[9]));
     }
 
     public static Team getTeam(Squad s){
