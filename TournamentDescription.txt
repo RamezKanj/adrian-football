@@ -1,1 +1,6 @@
 Describe your tournament design here. Please don't write more than 250 words.
+
+The tournament follows a structure akin to the FIFA World Cup, consisting of a group stage followed by knockout rounds.
+Matches are decided based on the overall skill level of the teams, a calculated metric encompassing player and manager skills.
+The knockout stage involves a series of single-elimination rounds: the Round of 16, Quarterfinals, Semifinals, and the Final.
+Like in the group stage, matches are determined by comparing the overall skill levels of the competing teams.

@@ -72,7 +72,7 @@ public class Main {
             }
         }
 
-        System.out.println(getTeam(squads[0]));
+        runTournament();
     }
 
     public static Team getTeam(Squad s){
@@ -131,5 +131,121 @@ public class Main {
 
     public static void runTournament(){
 
+        List<List<Team>> groups = createGroups();
+        List<Team> knockoutTeams = runGroupStage(groups);
+        Team champion = runKnockoutStage(knockoutTeams);
+
     }
+
+
+    public static List<List<Team>> createGroups() {
+        // Create groups
+        List<List<Team>> groups = new ArrayList<>();
+        for (int i = 0; i < 8; i++) {
+            groups.add(new ArrayList<>());
+        }
+
+        // Distribute teams into groups
+        int groupIndex = 0;
+        for (Squad squad : squads) {
+            Team team = getTeam(squad);
+            groups.get(groupIndex).add(team);
+            if ((groups.get(groupIndex).size() % 4) == 0) {
+                groupIndex++; // Move to next group after every 4 teams
+            }
+        }
+
+        // Print groups
+        printGroups(groups);
+
+        return groups;
+    }
+
+    private static void printGroups(List<List<Team>> groups) {
+        int groupNumber = 1;
+        for (List<Team> group : groups) {
+            System.out.println("Group " + groupNumber + ":");
+            for (Team team : group) {
+                System.out.println(" - " + team.getTeamName());
+            }
+            groupNumber++;
+            System.out.println();
+        }
+    }
+
+    public static List<Team> runGroupStage(List<List<Team>> groups) {
+        Map<Team, Integer> teamWins = new HashMap<>(); // Records number of wins for each team
+
+        // Simulate matches within each group
+        for (List<Team> group : groups) {
+            System.out.println("\nGroup Stage Matches:");
+            for (int i = 0; i < group.size(); i++) {
+                for (int j = i + 1; j < group.size(); j++) {
+                    Team team1 = group.get(i);
+                    Team team2 = group.get(j);
+                    Team winner = simulateMatch(team1, team2);
+                    teamWins.put(winner, teamWins.getOrDefault(winner, 0) + 1);
+
+                    // Log the match result
+                    System.out.printf("%s (%.2f%%) vs %s (%.2f%%) - Winner: %s\n",
+                            team1.getTeamName(), team1.teamOverallSkill() * 100,
+                            team2.getTeamName(), team2.teamOverallSkill() * 100,
+                            winner.getTeamName());
+                }
+            }
+        }
+
+        // Determine top two teams from each group
+        List<Team> knockoutTeams = new ArrayList<>();
+        for (List<Team> group : groups) {
+            group.sort(Comparator.comparingInt(team -> teamWins.getOrDefault(team, 0)).reversed());
+            System.out.println("\nTop Teams from Group:");
+            knockoutTeams.add(group.get(0));
+            knockoutTeams.add(group.get(1));
+            System.out.println("1. " + group.get(0).getTeamName());
+            System.out.println("2. " + group.get(1).getTeamName());
+        }
+
+        return knockoutTeams;
+    }
+
+    public static Team runKnockoutStage(List<Team> knockoutTeams) {
+        System.out.println("\nKnockout Stage Matches:");
+
+        while (knockoutTeams.size() > 1) {
+            List<Team> nextRoundTeams = new ArrayList<>();
+
+            // Simulate matches for the current round
+            for (int i = 0; i < knockoutTeams.size(); i += 2) {
+                Team team1 = knockoutTeams.get(i);
+                Team team2 = knockoutTeams.get(i + 1);
+                Team winner = simulateMatch(team1, team2);
+
+                // Log the match result with team skills
+                System.out.printf("Match: %s (%.2f%%) vs %s (%.2f%%) - Winner: %s\n",
+                        team1.getTeamName(), team1.teamOverallSkill() * 100,
+                        team2.getTeamName(), team2.teamOverallSkill() * 100,
+                        winner.getTeamName());
+
+                nextRoundTeams.add(winner);
+            }
+
+            // Prepare for the next round
+            knockoutTeams = nextRoundTeams;
+        }
+
+        // The last team remaining is the champion
+        Team champion = knockoutTeams.get(0);
+        System.out.println("\nWorld Cup Champion: " + champion.getTeamName());
+        return champion;
+    }
+
+    private static Team simulateMatch(Team team1, Team team2) {
+        // Compare team overall skill to determine the winner
+        double skillTeam1 = team1.teamOverallSkill();
+        double skillTeam2 = team2.teamOverallSkill();
+        return skillTeam1 > skillTeam2 ? team1 : team2;
+    }
+
+
 }
