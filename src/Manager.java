@@ -17,6 +17,10 @@ public class Manager extends Person {
         this.belief = belief;
     }
 
+    public double getOverallManagerSkill(){
+        return ((this.respect + this.ability + this.knowledge + this.belief) / 4);
+    }
+
     // Getters and setters for each attribute
 
     public String getFavouredFormation() {

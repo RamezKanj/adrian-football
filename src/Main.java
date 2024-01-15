@@ -33,9 +33,7 @@ public class Main {
                 Manager manager = new Manager(managerData[0], managerData[1], managerData[2], managerData[3],
                         Double.parseDouble(managerData[4]), Double.parseDouble(managerData[5]),
                         Double.parseDouble(managerData[6]), Double.parseDouble(managerData[7]));
-                // Add logic to determine which Squad object this manager belongs to
-                // For example:
-                // squads[index].setManager(manager);
+
 
                 // Determine squad based on team (country)
                 Squad squad = squadMap.computeIfAbsent(manager.getTeam(), k -> new Squad(manager.getTeam(), manager));

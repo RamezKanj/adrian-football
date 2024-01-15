@@ -20,6 +20,7 @@ public class Team extends Squad{
         sb.append("Team: ").append(getTeamName()).append("\n");
         sb.append("Manager: ").append(getManager().getFirstName()).append("\n"); // Assuming Manager class has getFirstName method
         sb.append("Manager formation: ").append(getManager().getFavouredFormation()).append("\n");
+        sb.append("Manager Overall skill: ").append(getManager().getOverallManagerSkill()).append("\n");
         sb.append("Players:\n");
         for (Player player : getBestTeamPlayers()) {
             sb.append(player.getFirstName())
@@ -45,7 +46,12 @@ public class Team extends Squad{
             teamSkill += player.getOverallSkill();
         }
 
-        return teamSkill / players.size(); // Calculate average based on the actual number of players
+        teamSkill = teamSkill / players.size();
+
+        teamSkill = (teamSkill + getManager().getOverallManagerSkill()) / 2;
+
+        return teamSkill;
     }
+
 
 }
