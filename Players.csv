@@ -1,0 +1,833 @@
+First Name,Surname,Team,Position,Fitness,Passing accuracy,Shot accuracy,Shot frequency,Defensiveness,Agression,Position,Dribbling,Chance Creation,Offside adherence
+Nuka, Ademović, Australia, Goal Keeper,0.22,0.51,0.15,0.34,0.75,0.89,0.48,0.39,0.03,0.9
+Abbas, Aguilar, Senegal, Midfielder,0.64,0.85,0.38,0.73,0.49,0.72,0.61,0.95,0.93,0.7
+Óliver, Aguirre, Ecuador, Goal Keeper,0.45,0.76,0.47,0.21,0.99,0.85,0.98,0.34,0.02,0.94
+Pari, Ahamed, Senegal, Midfielder,0.58,0.67,0.75,0.45,0.37,0.46,0.8,0.74,0.91,0.72
+Irina, Ahmadov, Wales, Goal Keeper,0.67,0.87,0.26,0.34,0.76,0.83,0.81,0.37,0.15,0.83
+Daniil, Ahmetović, Brazil, Goal Keeper,0.12,0.65,0.47,0.35,0.86,0.35,0.96,0.36,0.18,0.95
+Chih-hao, Ahn, Wales, Forward,0.15,0.48,0.66,0.64,0.49,0.3,0.78,0.7,0.76,0.46
+Ana, Ahn, Belgium, Forward,0.93,0.46,0.57,0.82,0.32,0.33,0.63,0.45,0.42,0.48
+Rin, Aigner, Iran, Defender,0.41,0.72,0.42,0.09,0.52,0.51,0.73,0.61,0.53,0.95
+Théo, Ali, Netherlands, Forward,0.92,0.41,0.7,0.79,0.42,0.47,0.57,0.71,0.35,0.66
+Omer, Ali, USA, Defender,0.35,0.85,0.43,0.0,0.65,0.89,0.47,0.65,0.59,0.9
+Louise, Aliyev, Costa Rica, Goal Keeper,0.0,0.89,0.49,0.23,0.85,0.59,0.52,0.25,0.12,0.95
+Cillian, Allen, Poland, Forward,0.39,0.53,0.58,0.54,0.28,0.64,0.49,0.49,0.73,0.48
+Yehuda, Almeida, Uruguay, Defender,0.07,0.64,0.39,0.18,0.83,0.75,0.57,0.37,0.13,0.91
+Katrina, Alonso, Cameroon, Forward,0.26,0.54,0.68,0.97,0.6,0.66,0.57,0.44,0.75,0.53
+Victor, Alonso, Tunisia, Forward,0.39,0.49,0.7,0.87,0.49,0.77,0.53,0.76,0.96,0.4
+Angeliki, Álvarez, Brazil, Midfielder,0.15,0.52,0.32,0.32,0.77,0.29,0.84,0.62,0.64,0.61
+Adéla, Amarasinghe, Poland, Defender,0.81,0.76,0.43,0.56,0.74,0.92,0.5,0.78,0.37,0.97
+Sara, Amarasinghe, Switzerland, Midfielder,0.16,0.63,0.61,0.52,0.65,0.23,0.62,0.58,0.54,0.53
+Adam, Amato, Wales, Forward,0.41,0.52,0.82,0.57,0.55,0.51,0.64,0.46,0.99,0.4
+Delfina, Amato, Tunisia, Midfielder,0.85,0.79,0.49,0.86,0.33,0.33,0.89,0.74,0.45,0.68
+Felipe, Amato, Mexico, Goal Keeper,0.27,0.57,0.37,0.25,0.98,0.85,0.82,0.37,0.03,0.95
+Vár, Ang, Costa Rica, Midfielder,0.18,0.59,0.34,0.48,0.48,0.3,0.54,0.48,0.83,0.51
+Aïcha, Aok, Qatar, Defender,0.6,0.54,0.16,0.51,0.74,0.86,0.72,0.73,0.38,0.84
+Regina, Arakelyan, Germany, Forward,0.33,0.54,0.7,0.82,0.57,0.31,0.76,0.72,0.78,0.61
+Inutsiaq, Araya, Morocco, Midfielder,0.39,0.63,0.6,0.64,0.37,0.33,0.64,0.51,0.91,0.49
+Pari, Arias, Portugal, Midfielder,0.42,0.73,0.57,0.52,0.64,0.21,0.4,0.7,0.99,0.47
+Stanley, Auer, France, Goal Keeper,0.15,0.61,0.57,0.33,0.83,0.51,0.89,0.23,0.07,0.97
+Shu-chuan, Avetisyan, Costa Rica, Midfielder,0.06,0.86,0.7,0.8,0.56,0.38,0.58,0.75,0.82,0.52
+Lucás, Avetisyan, USA, Midfielder,0.48,0.77,0.67,0.75,0.38,0.63,0.68,0.59,0.6,0.58
+Fahd, Ávila, Cameroon, Defender,0.69,0.67,0.4,0.14,0.64,0.57,0.69,0.37,0.67,0.79
+Himari, Ávila, Qatar, Midfielder,0.01,0.81,0.79,0.46,0.38,0.24,0.56,0.79,0.84,0.76
+Giulia, Ayala, Saudi Arabia, Defender,0.71,0.7,0.17,0.36,0.66,0.81,0.7,0.36,0.29,0.98
+Jonas, Azevedo, Denmark, Forward,0.69,0.64,0.74,0.77,0.55,0.33,0.73,0.82,0.9,0.63
+Junior, Bakker, Poland, Forward,0.43,0.67,0.85,0.55,0.21,0.51,0.77,0.51,0.83,0.47
+Jacob, Balázs, Portugal, Forward,0.79,0.51,0.64,0.58,0.58,0.64,0.93,0.45,0.9,0.47
+Thiago, Balázs, Morocco, Defender,0.85,0.61,0.44,0.2,0.53,0.41,0.79,0.28,0.74,0.85
+Yassin, Balogh, Spain, Midfielder,0.4,0.61,0.58,0.42,0.72,0.24,0.97,0.63,0.74,0.51
+Adomas, Bandara, Wales, Goal Keeper,0.12,0.61,0.55,0.38,0.92,0.52,0.77,0.37,0.11,0.98
+Hassan, Barbosa, South Korea, Defender,0.32,0.61,0.17,0.52,0.56,1.06,0.64,0.57,0.59,0.71
+Delfina, Barbosa, Iran, Midfielder,0.99,0.72,0.57,0.39,0.61,0.23,0.51,0.89,0.35,0.72
+I-chun, Barišić, Argentina, Forward,0.84,0.67,0.88,0.57,0.43,0.56,0.47,0.41,0.36,0.74
+Julija, Barone, Wales, Forward,0.57,0.54,0.59,0.92,0.25,0.77,0.91,0.46,0.49,0.73
+Maximiliano, Barone, Saudi Arabia, Forward,0.28,0.69,0.83,0.49,0.35,0.78,0.83,0.46,0.89,0.89
+Aruuzat, Barone, Mexico, Midfielder,0.19,0.5,0.75,0.75,0.78,0.41,0.96,0.61,0.89,0.75
+Emilia, Battaglia, Morocco, Forward,0.7,0.5,0.75,0.64,0.36,0.49,0.44,0.44,0.8,0.41
+Shristi, Battaglia, Brazil, Midfielder,0.71,0.6,0.32,0.35,0.75,0.24,0.77,0.58,0.45,0.56
+Eeli, Bektashi, Serbia, Defender,0.2,0.74,0.58,0.53,0.78,0.77,0.72,0.42,0.64,0.56
+João Miguel, Bektashi, Spain, Midfielder,0.65,0.75,0.7,0.87,0.33,0.53,0.5,0.56,0.46,0.62
+Delfina, Bell, Denmark, Forward,0.9,0.6,0.64,0.43,0.42,0.49,0.48,0.66,0.89,0.46
+Bernardo, Bellini, Brazil, Defender,0.64,0.63,0.58,0.36,0.65,0.4,0.48,0.54,0.36,0.74
+Prisha, Bellini, France, Midfielder,0.38,0.62,0.66,0.76,0.4,0.72,0.78,0.73,0.92,0.41
+Matías, Ben, Portugal, Defender,0.4,0.71,0.34,0.1,0.85,0.98,0.35,0.45,0.63,0.93
+Nehir, Ben, Tunisia, Forward,0.04,0.49,0.53,0.79,0.6,0.6,0.98,0.91,0.74,0.7
+Himari, Benali, England, Forward,0.97,0.53,0.82,0.83,0.22,0.68,0.51,0.66,0.38,0.49
+Ji-yoo, Benali, Argentina, Defender,0.68,0.64,0.57,0.46,0.92,0.3,0.56,0.67,0.75,0.98
+Mariami, Benali, Ghana, Goal Keeper,0.08,0.56,0.13,0.23,0.9,0.93,0.88,0.26,0.18,0.82
+Kyle, Benedetti, Costa Rica, Forward,0.31,0.51,0.51,0.65,0.25,0.65,0.6,0.81,0.91,0.68
+Markas, Bennett, Serbia, Forward,0.09,0.55,0.61,0.58,0.53,0.35,0.44,0.6,0.57,0.71
+Paul, Berisha, Cameroon, Forward,0.12,0.46,0.5,0.79,0.52,0.34,0.44,0.87,0.78,0.74
+Ha-eun, Berisha, Poland, Forward,0.18,0.44,0.78,0.53,0.56,0.56,0.57,0.76,0.53,0.68
+Vusal, Bertrand, Netherlands, Defender,0.09,0.71,0.41,0.45,0.89,0.69,0.34,0.36,0.78,0.93
+Nurislam, Bertrand, Ecuador, Midfielder,0.82,0.69,0.62,0.78,0.33,0.48,0.77,0.67,0.97,0.71
+Martina, Bianchi, Spain, Defender,0.63,0.88,0.27,0.09,0.52,0.77,0.84,0.61,0.39,0.96
+Yusuf, Binder, Portugal, Forward,0.16,0.51,0.76,0.95,0.63,0.42,0.88,0.88,0.99,0.55
+María Teresa, Bonnet, South Korea, Midfielder,0.64,0.67,0.74,0.73,0.64,0.71,0.78,0.79,0.36,0.55
+Jade, Bonnet, Qatar, Forward,0.52,0.67,0.78,0.95,0.37,0.48,0.64,0.73,0.78,0.89
+Dominykas, Bošnjak, South Korea, Midfielder,0.56,0.69,0.79,0.7,0.34,0.65,0.69,0.97,0.57,0.66
+Martina, Bošnjak, Australia, Midfielder,0.54,0.84,0.47,0.85,0.43,0.76,0.62,0.5,0.47,0.44
+Yasmin, Božič, Qatar, Midfielder,0.83,0.55,0.7,0.69,0.51,0.29,0.64,0.76,0.41,0.65
+Snezana, Božič, Ecuador, Midfielder,0.54,0.61,0.65,0.72,0.41,0.41,0.54,0.96,0.55,0.42
+Amal, Brunner, Belgium, Defender,0.91,0.63,0.54,0.26,0.98,0.44,0.36,0.38,0.13,0.7
+Aiden, Bruno, Portugal, Forward,0.22,0.57,0.77,0.97,0.56,0.74,0.87,0.87,0.34,0.59
+Daniil, Bruno, Japan, Forward,0.58,0.65,0.71,0.63,0.29,0.52,0.48,0.76,0.62,0.52
+Maui, Bruno, Belgium, Goal Keeper,0.23,0.76,0.49,0.26,0.87,0.82,0.66,0.22,0.06,0.93
+Paraskevi, Butler, Costa Rica, Defender,0.82,0.79,0.23,0.04,0.72,0.91,0.76,0.37,0.72,0.73
+Rita, Cabrera, Iran, Goal Keeper,0.43,0.69,0.38,0.2,0.81,0.96,0.85,0.27,0.18,0.94
+Ahmet, Cabrera, Qatar, Forward,0.51,0.56,0.78,0.81,0.37,0.63,0.77,0.73,0.75,0.56
+Michail, Calderón, Poland, Forward,0.31,0.55,0.53,0.61,0.66,0.43,0.92,0.62,0.8,0.84
+Sebastián, Calderón, Germany, Midfielder,0.39,0.52,0.63,0.43,0.65,0.56,0.47,0.67,0.81,0.63
+Nazanin-Zahra, Camacho, Ghana, Goal Keeper,0.71,0.64,0.29,0.31,0.77,0.75,0.89,0.21,0.0,0.99
+Agnes, Camacho, Denmark, Forward,0.86,0.53,0.56,0.44,0.4,0.37,0.96,0.63,0.89,0.53
+Siti, Campos, Portugal, Midfielder,0.07,0.8,0.3,0.35,0.54,0.37,0.71,0.89,0.61,0.53
+Jake, Carbone, Uruguay, Defender,0.35,0.51,0.24,0.49,0.63,0.67,0.85,0.22,0.67,0.85
+Sobia, Cardoso, Switzerland, Midfielder,0.75,0.77,0.38,0.4,0.56,0.33,0.45,0.77,0.72,0.49
+Izaro, Carrillo, England, Midfielder,0.21,0.78,0.42,0.59,0.5,0.54,0.81,0.52,0.31,0.57
+Emiliano, Carrillo, Denmark, Defender,0.01,0.59,0.49,0.12,0.63,0.99,0.41,0.53,0.55,0.79
+Mirlande, Carter, Denmark, Midfielder,0.34,0.67,0.79,0.4,0.5,0.73,0.82,0.74,0.96,0.85
+Marcell, Caruso, Wales, Forward,0.2,0.6,0.68,0.41,0.34,0.43,0.73,0.59,0.63,0.49
+Alma, Caruso, Qatar, Forward,0.24,0.49,0.53,0.86,0.65,0.53,0.41,0.63,0.58,0.66
+Julie, Caruso, Ghana, Midfielder,0.08,0.5,0.76,0.58,0.58,0.56,0.94,0.48,0.59,0.7
+Tunar, Castañeda, Switzerland, Forward,0.99,0.69,0.82,0.94,0.24,0.64,0.44,0.65,0.83,0.53
+Jóhann, Castelli, Qatar, Forward,0.15,0.43,0.52,0.81,0.32,0.74,0.42,0.83,0.48,0.74
+Indira, Čengić, Portugal, Defender,0.86,0.75,0.21,0.27,0.65,1.04,0.84,0.22,0.51,0.54
+María del Carmen, Cervantes, Ghana, Defender,0.18,0.69,0.41,0.27,0.87,0.73,0.81,0.24,0.35,0.64
+Maui, Chang, Argentina, Forward,0.95,0.43,0.5,0.63,0.46,0.76,0.84,0.44,0.85,0.57
+Théa, Cheam, Brazil, Forward,0.51,0.47,0.77,0.67,0.46,0.32,0.64,0.79,0.45,0.59
+Sevinj, Cheng, Croatia, Goal Keeper,0.0,0.74,0.54,0.3,0.92,0.53,0.75,0.2,0.11,0.87
+Arman, Cheng, Mexico, Midfielder,0.25,0.84,0.5,0.84,0.75,0.32,0.8,0.44,0.89,0.44
+Alexandra, Cheon, Iran, Defender,0.54,0.81,0.22,0.48,0.54,0.57,0.46,0.62,0.47,0.84
+Trinidad, Cheung, Saudi Arabia, Midfielder,0.81,0.58,0.71,0.67,0.53,0.27,0.85,0.84,0.73,0.59
+Ajla, Chey, France, Goal Keeper,0.0,0.64,0.4,0.31,0.97,0.71,0.79,0.24,0.17,0.86
+Baran, Chhem, Canada, Defender,0.5,0.55,0.57,0.44,0.52,0.71,0.79,0.63,0.38,0.72
+Emilia, Chhet, Netherlands, Forward,0.49,0.5,0.66,0.96,0.27,0.42,0.84,0.89,0.69,0.5
+Samuel, Chhim, Switzerland, Goal Keeper,0.87,0.62,0.5,0.26,0.7,0.93,0.77,0.2,0.11,0.87
+Moussa, Chhim, Belgium, Defender,0.54,0.67,0.29,0.35,0.96,0.84,0.67,0.62,0.22,0.97
+Vugar, Chhit, Saudi Arabia, Forward,0.23,0.5,0.56,0.98,0.39,0.75,0.42,0.66,0.61,0.52
+Alma, Chhorn, Wales, Forward,0.18,0.57,0.57,0.69,0.67,0.59,0.8,0.5,0.67,0.41
+Lisakhanya, Chhorn, South Korea, Goal Keeper,0.36,0.77,0.29,0.3,0.91,0.73,0.79,0.33,0.19,0.94
+Rishaan, Chhorn, Uruguay, Forward,0.47,0.48,0.56,0.57,0.69,0.52,0.55,0.56,0.98,0.82
+Heitor, Chim, Qatar, Defender,0.28,0.74,0.11,0.46,0.95,0.94,0.67,0.77,0.48,0.63
+Arman, Cho, South Korea, Midfielder,0.51,0.52,0.78,0.43,0.53,0.72,0.87,0.63,0.95,0.57
+Leia, Cho, Croatia, Defender,0.33,0.87,0.54,0.23,0.84,0.44,0.88,0.75,0.78,0.5
+Angelo, Choe, Costa Rica, Forward,0.37,0.69,0.81,0.84,0.52,0.67,0.74,0.62,0.46,0.82
+Dušan, Choe, Morocco, Defender,0.98,0.71,0.4,0.0,0.94,0.98,0.42,0.61,0.65,0.74
+Mohammed, Choe, Iran, Forward,0.68,0.62,0.79,0.56,0.61,0.37,0.83,0.79,0.32,0.88
+Mustafa, Choe, Mexico, Forward,0.81,0.54,0.74,0.45,0.57,0.67,0.76,0.49,0.46,0.46
+Juana, Choi, Switzerland, Midfielder,0.7,0.53,0.79,0.46,0.49,0.27,0.98,0.65,0.75,0.81
+Ámbar, Chu, Qatar, Goal Keeper,0.72,0.52,0.42,0.32,0.83,0.99,0.69,0.39,0.14,0.91
+Keven, Claes, Argentina, Midfielder,0.45,0.86,0.72,0.36,0.54,0.58,0.58,0.86,0.52,0.51
+Somayyeh, Claes, Mexico, Forward,0.81,0.43,0.8,0.94,0.26,0.31,0.83,0.51,0.75,0.41
+Tunar, Coelho, Belgium, Midfielder,0.54,0.8,0.55,0.61,0.54,0.27,0.56,0.94,0.75,0.45
+Gunay, Coelho, Senegal, Forward,0.36,0.5,0.73,0.97,0.5,0.79,0.44,0.64,0.79,0.87
+Biel, Collins, Iran, Forward,0.71,0.56,0.73,0.74,0.39,0.33,0.72,0.83,0.59,0.79
+Ida, Colombo, France, Forward,0.25,0.57,0.66,0.73,0.62,0.55,0.57,0.97,0.6,0.71
+Pol, Colombo, Ghana, Midfielder,0.04,0.65,0.76,0.39,0.57,0.72,0.81,0.84,0.83,0.86
+Aleksandre, Colombo, Spain, Midfielder,0.56,0.58,0.51,0.76,0.55,0.53,0.95,0.99,0.81,0.5
+Malek, Conti, Canada, Defender,0.29,0.81,0.36,0.43,0.82,0.75,0.41,0.37,0.54,0.79
+Noah, Conti, Senegal, Midfielder,0.33,0.85,0.42,0.31,0.68,0.23,0.77,0.4,0.95,0.51
+Ji-woo, Contreras, Costa Rica, Midfielder,0.36,0.68,0.55,0.85,0.79,0.64,0.45,0.93,0.36,0.41
+Hosniya, Contreras, Morocco, Midfielder,0.26,0.5,0.33,0.88,0.51,0.35,0.64,0.44,0.36,0.58
+Angelo, Cooper, Denmark, Forward,0.0,0.67,0.82,0.79,0.4,0.39,0.49,0.51,0.31,0.58
+Nicole, Correia, Canada, Forward,0.63,0.47,0.75,0.76,0.4,0.69,0.81,0.85,0.81,0.46
+Fatoumata, Costa, Saudi Arabia, Forward,0.97,0.69,0.52,0.7,0.62,0.54,0.81,0.62,0.51,0.72
+Mariya, Cruz, Iran, Forward,0.93,0.67,0.79,0.63,0.39,0.71,0.98,0.61,0.79,0.7
+Sobia, Cunha, Qatar, Forward,0.84,0.65,0.69,0.83,0.32,0.68,0.84,0.59,0.57,0.57
+Bader, Cunha, USA, Defender,0.52,0.66,0.47,0.03,0.6,0.93,0.55,0.28,0.67,0.98
+Elizabeth, D'Agostino, Iran, Midfielder,0.84,0.76,0.61,0.87,0.6,0.77,0.87,0.62,0.59,0.62
+Anahit, D'Amico, Germany, Midfielder,0.87,0.6,0.62,0.87,0.47,0.31,0.59,0.5,0.93,0.84
+Ayalah, D'Angelo, England, Defender,0.87,0.86,0.28,0.35,0.89,0.65,0.81,0.54,0.58,0.8
+Viktorija, D'Angelo, Croatia, Defender,0.35,0.54,0.3,0.43,0.58,0.3,0.68,0.36,0.63,0.97
+Julie, Dąbrowski, Tunisia, Defender,0.03,0.7,0.33,0.22,0.81,0.72,0.33,0.61,0.72,0.62
+Khawla, Davis, USA, Forward,0.45,0.55,0.88,0.94,0.2,0.38,0.99,0.91,0.98,0.89
+Jan, De Boer, Poland, Forward,0.76,0.45,0.65,0.55,0.46,0.47,0.51,0.59,0.9,0.45
+Karl, De Graaf, Morocco, Defender,0.28,0.69,0.36,0.43,0.78,0.54,0.49,0.4,0.54,0.65
+Amira, De Jong, Spain, Defender,0.28,0.85,0.36,0.58,0.67,0.67,0.59,0.53,0.64,0.86
+Tommaso, De Jong, Germany, Forward,0.72,0.56,0.75,0.72,0.37,0.48,0.56,0.88,0.61,0.58
+Julianne, De Luca, Germany, Goal Keeper,0.16,0.62,0.35,0.31,0.72,0.79,0.76,0.31,0.1,0.88
+Charles, De Rosa, Australia, Forward,0.9,0.54,0.68,0.65,0.41,0.71,0.93,0.52,0.37,0.53
+Moana, De Santis, Ghana, Midfielder,0.66,0.5,0.41,0.65,0.63,0.6,0.49,0.79,0.92,0.71
+Adam, De Smet, Japan, Defender,0.53,0.83,0.13,0.51,0.56,1.07,0.7,0.3,0.33,0.66
+Lile, De Wit, Japan, Defender,0.96,0.81,0.34,0.16,0.9,0.31,0.71,0.74,0.17,0.58
+Melissa, Delemović, Iran, Defender,0.12,0.67,0.43,0.16,0.62,0.49,0.42,0.4,0.2,0.6
+Zoe, Delgado, Portugal, Goal Keeper,0.99,0.83,0.44,0.3,0.81,0.71,0.74,0.37,0.02,0.81
+Siti, Delić, Qatar, Defender,0.72,0.78,0.47,0.03,0.97,0.35,0.39,0.5,0.28,0.53
+Óliver, Delić, Japan, Midfielder,0.8,0.62,0.54,0.78,0.47,0.64,0.59,0.91,0.54,0.85
+Karam, Delvina, Iran, Defender,0.33,0.75,0.42,0.04,0.93,0.64,0.74,0.61,0.76,0.65
+Arianna, Delvina, Iran, Midfielder,0.88,0.74,0.42,0.38,0.61,0.73,0.64,0.72,0.47,0.49
+Sebastián, Devi, Cameroon, Defender,0.49,0.83,0.36,0.59,0.56,0.38,0.5,0.49,0.69,0.59
+Marcell, Devi, Poland, Forward,0.37,0.56,0.83,0.77,0.51,0.64,0.42,0.83,0.96,0.58
+Aino, Devi, Ecuador, Forward,0.47,0.56,0.83,0.61,0.42,0.32,0.81,0.7,0.42,0.4
+Elshan, Di Stefano, Canada, Forward,0.64,0.46,0.84,0.67,0.48,0.41,0.41,0.65,0.89,0.71
+Aarav, Di Stefano, Mexico, Defender,0.42,0.71,0.38,0.45,0.63,1.09,0.77,0.69,0.4,0.81
+Suha, Dias, Ecuador, Midfielder,0.62,0.62,0.46,0.81,0.48,0.46,0.69,0.85,0.32,0.61
+Matilde, Diaz, Wales, Defender,0.92,0.7,0.56,0.54,0.73,1.07,0.38,0.57,0.47,0.54
+Asmita, Diaz, Morocco, Defender,0.05,0.62,0.55,0.05,0.88,0.97,0.3,0.61,0.16,0.88
+AbulFazl, Díaz, Wales, Midfielder,0.63,0.63,0.44,0.88,0.66,0.29,0.59,0.77,0.78,0.57
+Farah, Díaz, Belgium, Midfielder,0.66,0.71,0.47,0.55,0.56,0.57,0.75,0.89,0.43,0.62
+August, Dijkstra, Belgium, Defender,0.71,0.73,0.21,0.16,0.99,0.59,0.46,0.7,0.77,0.87
+Nina, Din, Tunisia, Defender,0.2,0.74,0.13,0.54,0.61,0.44,0.49,0.56,0.23,0.86
+Daria, Din, Ghana, Forward,0.65,0.62,0.58,0.63,0.53,0.68,0.43,0.56,0.8,0.48
+Nicolás, Domínguez, USA, Defender,0.12,0.5,0.34,0.59,0.64,0.97,0.81,0.49,0.11,0.71
+Klea, Doyle, Portugal, Midfielder,0.01,0.76,0.4,0.73,0.54,0.47,0.57,0.87,0.96,0.5
+Zahid, Doyle, Qatar, Goal Keeper,0.5,0.52,0.41,0.34,0.7,0.33,0.83,0.22,0.18,0.88
+Duarte, Doyle, France, Defender,0.94,0.88,0.54,0.32,0.75,0.92,0.62,0.56,0.25,0.86
+Hessa, Dul, South Korea, Goal Keeper,0.45,0.82,0.22,0.2,0.74,0.88,0.62,0.36,0.1,0.92
+Alicja, Dumont, Denmark, Defender,0.66,0.83,0.36,0.17,0.89,0.35,0.72,0.33,0.54,0.76
+Elise, Duong, Brazil, Forward,0.22,0.45,0.65,0.8,0.43,0.74,0.67,0.54,0.84,0.4
+Leonor, Duong, Belgium, Forward,0.25,0.56,0.74,0.6,0.45,0.42,0.4,0.58,0.92,0.4
+Kairo, Dupont, Japan, Forward,0.44,0.53,0.56,0.46,0.64,0.56,0.53,0.57,0.45,0.52
+Nilay, Eav, Qatar, Defender,0.07,0.71,0.14,0.5,0.81,1.07,0.32,0.31,0.71,0.56
+Harraz, Eav, Argentina, Forward,0.07,0.52,0.54,0.85,0.45,0.5,0.64,0.85,0.76,0.54
+María Teresa, Eaw, Serbia, Goal Keeper,0.57,0.63,0.33,0.37,0.9,0.95,0.66,0.32,0.11,0.9
+Lorenzo, Ebner, Uruguay, Forward,0.66,0.66,0.52,0.65,0.24,0.39,0.94,0.92,0.35,0.72
+Ariel, Ebner, Switzerland, Goal Keeper,0.48,0.69,0.22,0.28,0.92,0.46,0.77,0.33,0.14,0.98
+Amahle, Eder, Saudi Arabia, Defender,0.62,0.56,0.38,0.28,0.88,0.34,0.83,0.49,0.5,0.61
+Mikaere, Edirisinghe, Qatar, Forward,0.66,0.41,0.88,0.7,0.54,0.42,0.45,0.51,0.98,0.5
+Yehuda, Edirisinghe, Brazil, Defender,0.09,0.88,0.58,0.51,0.67,0.84,0.37,0.58,0.13,0.71
+Christian, Edirisinghe, Germany, Goal Keeper,0.0,0.88,0.13,0.36,0.84,0.79,0.42,0.37,0.08,0.88
+June, Egger, France, Defender,0.93,0.87,0.4,0.38,0.66,1.0,0.56,0.4,0.48,0.64
+Wen-Hsiung, Egger, Japan, Defender,0.7,0.86,0.36,0.49,0.72,0.79,0.86,0.23,0.69,0.8
+Manish, Ekanayake, Poland, Forward,0.35,0.65,0.74,0.65,0.36,0.74,0.62,0.88,0.71,0.4
+Henry, Ekanayake, Mexico, Defender,0.73,0.73,0.36,0.17,0.61,0.5,0.81,0.41,0.49,0.96
+Hosniya, Espinoza, Serbia, Midfielder,0.76,0.73,0.64,0.72,0.3,0.42,0.68,0.63,0.48,0.69
+Léon, Espinoza, Argentina, Forward,0.57,0.5,0.82,0.92,0.6,0.44,0.66,0.88,0.44,0.7
+Sumayah, Fabbri, Argentina, Midfielder,0.6,0.57,0.33,0.81,0.69,0.34,0.79,0.79,0.68,0.71
+Emely, Farina, England, Midfielder,0.3,0.81,0.57,0.46,0.72,0.67,0.71,0.45,0.35,0.72
+Esma, Farina, Costa Rica, Defender,0.11,0.55,0.44,0.56,0.9,0.68,0.34,0.69,0.73,0.53
+Sakineh, Farina, Japan, Forward,0.58,0.47,0.59,0.69,0.38,0.43,0.56,0.42,0.99,0.71
+Ian, Fehér, Australia, Defender,0.99,0.64,0.54,0.07,0.71,1.04,0.41,0.75,0.18,0.7
+Aysel, Fekete, Australia, Defender,0.37,0.68,0.35,0.59,0.75,0.63,0.82,0.53,0.48,0.6
+Wen-Hsiung, Fernandes, Iran, Defender,0.84,0.78,0.57,0.05,0.76,0.92,0.43,0.65,0.58,0.82
+Alma, Fernández, Belgium, Goal Keeper,0.44,0.76,0.55,0.23,0.74,0.73,0.91,0.22,0.18,0.94
+Dylan, Fernando, Germany, Forward,0.32,0.52,0.6,0.7,0.2,0.77,0.72,0.47,0.58,0.4
+Princess, Ferrara, Morocco, Forward,0.28,0.51,0.63,0.85,0.64,0.37,0.69,0.72,0.84,0.74
+Yasmine, Ferrara, Serbia, Midfielder,0.79,0.77,0.51,0.63,0.3,0.63,0.94,0.59,0.95,0.82
+Bakary, Ferrara, France, Forward,0.49,0.59,0.78,0.9,0.49,0.55,0.6,0.68,0.4,0.87
+Francisca, Ferraro, Spain, Forward,0.8,0.44,0.78,0.57,0.52,0.76,0.85,0.85,0.69,0.58
+Farrah, Ferreira, Mexico, Goal Keeper,0.55,0.58,0.5,0.22,0.76,0.46,0.85,0.31,0.09,0.96
+Keanu, Ferretti, Cameroon, Forward,0.99,0.47,0.76,0.81,0.24,0.75,0.68,0.73,0.59,0.64
+Aasha, Ferreyra, Ghana, Defender,0.58,0.61,0.43,0.31,0.72,0.99,0.83,0.24,0.53,0.79
+César, Ferreyra, Switzerland, Midfielder,0.96,0.76,0.36,0.68,0.77,0.53,0.91,0.74,0.62,0.47
+Bibek, Ferri, Brazil, Midfielder,0.0,0.57,0.75,0.76,0.46,0.66,0.79,0.61,0.52,0.53
+Halim, Figueiredo, Ghana, Defender,0.81,0.84,0.17,0.14,0.98,0.43,0.67,0.55,0.1,0.62
+Ammar, Figueroa, Portugal, Defender,0.39,0.64,0.14,0.07,0.53,0.77,0.86,0.28,0.48,0.53
+Sevda, Figueroa, Portugal, Defender,0.32,0.72,0.31,0.48,0.61,0.46,0.63,0.5,0.16,0.89
+Yuina, Figueroa, Croatia, Midfielder,0.35,0.76,0.53,0.63,0.39,0.67,0.86,0.67,0.74,0.51
+Jovana, Figueroa, Switzerland, Forward,0.3,0.52,0.85,0.78,0.39,0.64,0.58,0.73,0.75,0.52
+Klara, Fiore, Qatar, Midfielder,0.93,0.66,0.3,0.57,0.72,0.57,0.77,0.99,0.42,0.69
+Manish, Fontana, Serbia, Midfielder,0.62,0.75,0.79,0.88,0.47,0.54,0.66,0.8,0.61,0.5
+Freja, Franco, Iran, Forward,0.61,0.69,0.64,0.95,0.37,0.37,0.7,0.76,0.9,0.7
+Isabelle, Frashëri, Netherlands, Defender,0.18,0.85,0.43,0.16,0.67,0.54,0.51,0.71,0.18,0.66
+Jonas, Freitas, Iran, Goal Keeper,0.6,0.86,0.58,0.22,0.71,0.91,0.86,0.27,0.0,0.93
+Abdulrahman, Fuentes, Ghana, Defender,0.54,0.74,0.45,0.0,0.58,0.34,0.63,0.4,0.49,0.77
+Vita, Gál, Costa Rica, Goal Keeper,0.69,0.52,0.11,0.28,0.73,0.68,0.91,0.35,0.02,0.94
+Ulloriaq, Gallagher, Ghana, Forward,0.9,0.52,0.67,0.93,0.28,0.57,0.6,0.64,0.47,0.55
+Julen, Galli, Wales, Defender,0.57,0.61,0.3,0.43,0.86,0.3,0.33,0.29,0.7,0.76
+Oyunbileg, Gallo, France, Defender,0.47,0.8,0.4,0.26,0.67,0.53,0.75,0.75,0.38,0.99
+Izaro, Gallo, USA, Forward,0.16,0.5,0.6,0.52,0.66,0.34,0.52,0.56,0.62,0.85
+Jovana, Gamage, Senegal, Defender,0.86,0.58,0.22,0.55,0.8,1.01,0.75,0.26,0.46,0.88
+Abubakr, Garcia, Cameroon, Goal Keeper,0.77,0.68,0.2,0.39,0.91,0.42,0.55,0.35,0.07,0.8
+Julieta, Garcia, Portugal, Forward,0.17,0.51,0.71,0.93,0.37,0.37,0.83,0.41,0.92,0.57
+Artem, Garcia, France, Defender,0.73,0.52,0.47,0.33,0.54,0.51,0.45,0.57,0.38,0.72
+Eymen, Garcia, Croatia, Defender,0.42,0.74,0.21,0.19,0.81,0.9,0.35,0.31,0.74,0.65
+Elnur, Garcia, Spain, Midfielder,0.9,0.77,0.36,0.57,0.35,0.66,0.64,0.99,0.83,0.72
+Mersana, Garcia, Denmark, Defender,0.36,0.78,0.33,0.18,0.81,0.41,0.37,0.39,0.49,0.55
+Simona, García, Senegal, Defender,0.36,0.76,0.42,0.11,0.75,0.46,0.75,0.22,0.43,0.86
+Farida, Garza, Argentina, Defender,0.32,0.87,0.28,0.02,0.8,0.43,0.81,0.67,0.12,0.89
+Victor, Gashi, USA, Defender,0.34,0.59,0.19,0.24,0.82,0.8,0.33,0.43,0.11,0.74
+Maja, Gatti, England, Defender,0.72,0.89,0.13,0.16,0.64,0.76,0.64,0.7,0.63,0.73
+Harun, Gegaj, England, Forward,0.66,0.69,0.78,0.86,0.28,0.55,0.77,0.43,0.36,0.79
+Şerife, Gegaj, Denmark, Goal Keeper,0.18,0.68,0.44,0.22,0.96,0.94,0.51,0.25,0.07,0.99
+Ciro, Ghang, Serbia, Forward,0.65,0.45,0.63,0.43,0.49,0.45,0.49,0.59,0.73,0.68
+Martina, Ghazaryan, Argentina, Midfielder,0.95,0.63,0.53,0.77,0.79,0.25,0.53,0.5,0.55,0.4
+Ali-Reza, Ghim, Germany, Defender,0.85,0.85,0.14,0.42,0.89,0.43,0.79,0.2,0.37,0.88
+Ayabonga, Gil, Iran, Goal Keeper,0.01,0.82,0.36,0.28,0.78,0.88,0.96,0.2,0.15,0.8
+Mirjana, Gil, Spain, Forward,0.99,0.58,0.65,0.58,0.58,0.71,0.65,0.83,0.71,0.7
+Filip, Giménez, Morocco, Forward,0.93,0.44,0.56,0.67,0.62,0.42,0.96,0.7,0.99,0.6
+Sumayah, Giménez, Mexico, Defender,0.36,0.6,0.24,0.19,0.91,1.03,0.4,0.62,0.37,0.81
+Maeva, Giordano, Cameroon, Midfielder,0.94,0.52,0.38,0.46,0.35,0.33,0.7,0.51,0.89,0.72
+Relja, Girard, Tunisia, Midfielder,0.47,0.67,0.51,0.87,0.74,0.31,0.7,0.79,0.63,0.64
+Isak, Giuliani, Cameroon, Goal Keeper,0.96,0.5,0.24,0.22,0.88,0.88,0.95,0.32,0.12,0.98
+Narine, Giuliani, Cameroon, Midfielder,0.12,0.52,0.79,0.32,0.64,0.57,0.81,0.96,0.52,0.48
+Ámbar, Giuliani, Ecuador, Defender,0.29,0.81,0.53,0.3,0.51,0.82,0.6,0.66,0.61,0.53
+Leyla, Gjonaj, Uruguay, Defender,0.3,0.89,0.49,0.23,0.98,1.08,0.82,0.47,0.51,0.91
+Fadi, Golob, Poland, Defender,0.46,0.83,0.5,0.32,0.72,0.34,0.57,0.61,0.56,0.57
+Imene, Gomes, Argentina, Defender,0.71,0.77,0.55,0.51,0.64,1.06,0.59,0.41,0.43,0.73
+Stefan, Gomez, South Korea, Forward,0.38,0.59,0.59,0.74,0.39,0.39,0.91,0.71,0.37,0.43
+Bernardo, Gonçalves, Croatia, Midfielder,0.83,0.65,0.42,0.52,0.38,0.68,0.55,0.9,0.9,0.77
+Demetre, Grabowski, Brazil, Defender,0.97,0.79,0.17,0.36,0.71,0.77,0.48,0.6,0.67,0.89
+Tereza, Grabowski, Senegal, Midfielder,0.7,0.89,0.71,0.81,0.45,0.69,0.93,0.8,0.9,0.89
+Markas, Grassi, England, Defender,0.99,0.69,0.3,0.06,0.79,0.97,0.67,0.2,0.34,0.97
+Ezekiel, Gray, Uruguay, Midfielder,0.48,0.77,0.34,0.89,0.52,0.59,0.9,0.79,0.68,0.61
+Luca, Greco, Netherlands, Defender,0.71,0.81,0.12,0.22,0.88,0.46,0.88,0.32,0.41,0.75
+Mateo, Greco, Tunisia, Forward,0.64,0.5,0.69,0.53,0.35,0.42,0.89,0.78,0.7,0.67
+Paneeraq, Greco, Croatia, Defender,0.5,0.84,0.15,0.47,0.86,0.63,0.79,0.67,0.22,0.85
+Olivia, Grgić, Argentina, Goal Keeper,0.25,0.61,0.29,0.34,0.79,0.72,0.51,0.3,0.04,0.93
+Asahi, Grigoryan, Canada, Defender,0.68,0.6,0.3,0.37,0.5,0.71,0.88,0.54,0.35,0.87
+Alikhan, Guerra, Saudi Arabia, Goal Keeper,0.02,0.53,0.28,0.25,0.99,0.43,0.9,0.23,0.17,0.82
+Bára, Guerrero, Switzerland, Forward,0.15,0.63,0.59,0.77,0.24,0.77,0.6,0.6,0.37,0.55
+Athanasios, Guliyev, France, Midfielder,0.04,0.56,0.32,0.75,0.77,0.4,0.94,0.41,0.51,0.78
+Dimitra, Guliyev, Uruguay, Defender,0.59,0.68,0.54,0.43,0.6,0.74,0.45,0.69,0.18,0.5
+Pedro, Gunawardana, Japan, Goal Keeper,0.29,0.86,0.56,0.27,0.72,0.71,0.77,0.2,0.08,0.95
+Defne, Gunawardena, Iran, Defender,0.62,0.67,0.57,0.08,0.68,0.97,0.53,0.75,0.18,0.98
+Lilly, Guō, Switzerland, Midfielder,0.07,0.8,0.55,0.41,0.44,0.66,0.81,0.87,0.33,0.47
+Do-yun, Gutierrez, France, Goal Keeper,0.32,0.59,0.4,0.26,0.91,0.95,0.84,0.29,0.03,0.96
+Beatriz, Gutiérrez, Ecuador, Forward,0.03,0.4,0.65,0.7,0.21,0.41,0.49,0.59,0.75,0.59
+Gita, Gutiérrez, Canada, Midfielder,0.41,0.5,0.64,0.37,0.41,0.42,0.81,0.58,0.37,0.58
+Aiden, Halili, Serbia, Defender,0.83,0.84,0.47,0.33,0.87,0.31,0.79,0.46,0.52,0.56
+Zofia, Halili, Ecuador, Goal Keeper,0.04,0.74,0.48,0.31,0.92,0.66,0.6,0.25,0.01,0.84
+Goran, Harutyunyan, USA, Defender,0.2,0.56,0.18,0.02,0.64,0.57,0.49,0.57,0.79,0.98
+Elizabeth, Hasani, Wales, Goal Keeper,0.03,0.88,0.57,0.26,0.92,0.8,0.91,0.32,0.19,0.86
+Shayma, Hasani, Portugal, Defender,0.76,0.78,0.16,0.27,0.75,0.97,0.7,0.77,0.23,0.82
+Ginevra, Hasani, Australia, Defender,0.29,0.6,0.42,0.51,0.72,1.01,0.57,0.56,0.29,0.95
+Ye-jun, Hasanov, Serbia, Forward,0.21,0.68,0.74,0.72,0.5,0.63,0.63,0.69,0.9,0.64
+Jovan, Hasanović, Canada, Forward,0.71,0.64,0.52,0.76,0.32,0.38,0.83,0.83,0.35,0.64
+Relja, Hé, Ecuador, Midfielder,0.19,0.58,0.64,0.5,0.72,0.52,0.62,0.58,0.73,0.87
+Sofiya, Hé, Japan, Forward,0.55,0.61,0.7,0.74,0.29,0.73,0.49,0.52,0.3,0.76
+Jessica, Hé, Ghana, Defender,0.37,0.69,0.36,0.55,0.55,0.68,0.58,0.68,0.62,0.7
+Ye-jun, Hendriks, Qatar, Forward,0.04,0.58,0.68,0.42,0.37,0.32,0.87,0.82,0.89,0.68
+Adam, Hendriks, Mexico, Forward,0.9,0.43,0.74,0.95,0.38,0.75,0.84,0.66,0.38,0.83
+Kairo, Hill, Croatia, Midfielder,0.07,0.55,0.55,0.65,0.67,0.53,0.5,0.97,0.92,0.88
+Keven, Hodžić, France, Midfielder,0.35,0.63,0.66,0.76,0.31,0.27,0.48,0.73,0.9,0.41
+An, Hodžić, Mexico, Midfielder,0.39,0.53,0.52,0.63,0.41,0.33,0.86,0.99,0.89,0.46
+Lile, Hoffmann, USA, Forward,0.7,0.67,0.7,0.63,0.44,0.78,0.54,0.63,0.73,0.48
+Michail, Horvat, Belgium, Forward,0.12,0.62,0.65,0.52,0.62,0.44,0.94,0.89,0.49,0.89
+Shahem, Horváth, Spain, Forward,0.43,0.5,0.7,0.6,0.55,0.36,0.57,0.7,0.82,0.68
+Karen, Hossain, Ecuador, Forward,0.51,0.52,0.74,0.79,0.61,0.52,0.78,0.9,0.81,0.51
+Emīls, Hovhannisyan, Croatia, Forward,0.21,0.47,0.89,0.82,0.21,0.69,0.97,0.76,0.66,0.64
+Sumayah, Hu, Netherlands, Defender,0.19,0.73,0.21,0.2,0.73,0.68,0.47,0.51,0.68,0.89
+Chien-hung, Hu, Croatia, Midfielder,0.8,0.54,0.43,0.45,0.64,0.49,0.99,0.47,0.32,0.49
+Francisca, Hu, Ghana, Midfielder,0.78,0.81,0.32,0.56,0.58,0.74,0.59,0.87,0.71,0.88
+Goran, Hú, Netherlands, Defender,0.15,0.5,0.1,0.12,0.84,0.69,0.62,0.79,0.51,0.7
+Chien-hung, Huang, Japan, Forward,0.17,0.44,0.72,0.79,0.38,0.37,0.75,0.91,0.43,0.55
+Frans, Huáng, Tunisia, Defender,0.78,0.74,0.41,0.0,0.63,0.7,0.4,0.63,0.17,0.68
+Natália, Hughes, Switzerland, Forward,0.9,0.46,0.61,0.59,0.65,0.5,0.72,0.97,0.54,0.4
+Alexandra, Hughes, Spain, Goal Keeper,0.63,0.88,0.53,0.21,0.93,0.47,0.82,0.36,0.07,0.86
+Rethabile, Huseynov, Denmark, Goal Keeper,0.07,0.59,0.1,0.23,0.75,0.31,0.52,0.23,0.07,0.86
+Mariami, Hwang, Ecuador, Forward,0.72,0.58,0.73,0.56,0.24,0.53,0.77,0.83,0.97,0.86
+Aarav, Iam, Iran, Midfielder,0.74,0.77,0.6,0.77,0.79,0.69,0.99,0.81,0.61,0.72
+Puteri, Ibarra, Argentina, Midfielder,0.93,0.51,0.38,0.49,0.37,0.63,0.89,0.73,0.52,0.61
+Rabina, Iem, England, Defender,0.91,0.71,0.28,0.56,0.52,0.82,0.65,0.6,0.33,0.88
+Elise, Iglesias, South Korea, Defender,0.49,0.67,0.52,0.02,0.6,0.62,0.41,0.77,0.48,0.96
+Hana, Iglesias, France, Defender,0.47,0.75,0.16,0.35,0.78,0.65,0.31,0.52,0.68,0.96
+Khawla, Iglesias, Denmark, Defender,0.77,0.63,0.4,0.59,0.83,0.56,0.6,0.64,0.66,0.99
+Karitas, Im, Tunisia, Midfielder,0.61,0.52,0.63,0.6,0.51,0.22,0.44,0.56,0.52,0.54
+Mía, Im, Senegal, Defender,0.49,0.85,0.18,0.01,0.56,0.38,0.45,0.75,0.14,0.53
+Chien-hung, Iv, Brazil, Midfielder,0.92,0.6,0.65,0.34,0.67,0.41,0.83,0.74,0.54,0.51
+Halim, Iv, Tunisia, Midfielder,0.54,0.56,0.32,0.57,0.66,0.48,0.5,0.68,0.55,0.44
+Tunar, Jackson, England, Forward,0.36,0.47,0.67,0.97,0.41,0.33,0.64,0.65,0.9,0.85
+Lourenço, Jackson, Germany, Midfielder,0.85,0.68,0.63,0.33,0.41,0.49,0.67,0.58,0.98,0.59
+Luis, Jacobs, Switzerland, Midfielder,0.09,0.77,0.5,0.67,0.49,0.26,0.58,0.99,0.66,0.4
+Angeliki, Jafarov, Canada, Midfielder,0.55,0.84,0.48,0.74,0.34,0.24,0.62,0.68,0.99,0.88
+Emelía, Jan, Mexico, Defender,0.44,0.55,0.23,0.1,0.67,0.97,0.52,0.77,0.14,0.53
+Arianna, Jan, Australia, Forward,0.77,0.68,0.77,0.56,0.27,0.35,0.84,0.73,0.77,0.73
+Natálie, Jang, Ecuador, Defender,0.78,0.81,0.45,0.26,0.66,0.83,0.88,0.79,0.18,0.62
+Hasnaa, Jansen, USA, Goal Keeper,0.49,0.57,0.33,0.32,0.72,0.65,0.76,0.34,0.06,0.97
+Asja, Jansen, Japan, Midfielder,0.09,0.73,0.56,0.81,0.35,0.4,0.79,0.61,0.71,0.4
+Sobia, Janssen, Morocco, Goal Keeper,0.53,0.59,0.55,0.36,0.85,0.34,0.98,0.31,0.07,0.95
+Viktoria, Jayasekara, Netherlands, Goal Keeper,0.42,0.77,0.23,0.25,0.84,0.85,0.61,0.24,0.0,0.99
+Beatrice, Jayasekara, Qatar, Midfielder,0.03,0.62,0.39,0.56,0.79,0.59,0.96,0.77,0.97,0.63
+Freyja, Jayasinghe, Australia, Forward,0.38,0.51,0.87,0.82,0.4,0.55,0.91,0.78,0.4,0.81
+Haruto, Jayasuriya, Costa Rica, Defender,0.06,0.62,0.52,0.58,0.85,0.74,0.37,0.61,0.12,0.92
+Heloísa, Jayasuriya, Germany, Midfielder,0.46,0.68,0.38,0.64,0.69,0.5,0.68,0.99,0.35,0.78
+Aksel, Jayawardana, Uruguay, Forward,0.59,0.57,0.61,0.7,0.34,0.63,0.79,0.4,0.53,0.61
+Jacob, Jayawardana, Ghana, Forward,0.04,0.59,0.62,0.8,0.59,0.72,0.52,0.98,0.94,0.8
+Hoda, Jenkins, Spain, Defender,0.64,0.61,0.12,0.01,0.81,0.98,0.81,0.36,0.13,0.84
+Leonardo, Jeon, England, Defender,0.11,0.52,0.43,0.16,0.89,0.88,0.34,0.48,0.1,0.69
+Milagrosa, Jesus, Ghana, Defender,0.73,0.76,0.15,0.48,0.81,0.86,0.63,0.35,0.19,0.53
+Paneeraq, Jiménez, Uruguay, Goal Keeper,0.27,0.61,0.4,0.35,0.99,0.71,0.86,0.25,0.02,0.94
+Abdullo, Jo, Morocco, Forward,0.76,0.41,0.6,0.43,0.26,0.53,0.61,0.53,0.89,0.48
+Antônia, Jo, Australia, Defender,0.63,0.63,0.42,0.5,0.52,0.44,0.65,0.69,0.49,0.73
+Samyar, Joe, Belgium, Midfielder,0.61,0.63,0.47,0.89,0.41,0.49,0.86,0.94,0.55,0.88
+Eeli, Johnson, France, Forward,0.09,0.6,0.81,0.57,0.54,0.73,0.86,0.92,0.45,0.44
+Melokuhle, Jones, Morocco, Midfielder,0.11,0.84,0.51,0.38,0.71,0.78,0.99,0.86,0.83,0.4
+Freddie, Joy, Belgium, Defender,0.11,0.5,0.38,0.4,0.93,0.38,0.56,0.22,0.22,0.71
+Fátima, Jun, Tunisia, Forward,0.57,0.56,0.8,0.51,0.65,0.77,0.72,0.63,0.42,0.82
+Brianna, Kang, Costa Rica, Midfielder,0.26,0.68,0.55,0.83,0.39,0.23,0.98,0.81,0.56,0.45
+Florence, Kang, Ecuador, Goal Keeper,0.19,0.53,0.21,0.25,0.74,0.35,0.86,0.38,0.04,0.82
+Aleksandar, Karapetyan, USA, Goal Keeper,0.88,0.54,0.42,0.24,0.7,0.98,0.89,0.21,0.04,0.99
+Vita, Kastelic, Serbia, Goal Keeper,0.18,0.53,0.48,0.28,0.95,0.82,0.82,0.33,0.02,0.93
+Ian, Kastelic, Denmark, Defender,0.47,0.75,0.22,0.1,0.63,0.49,0.76,0.69,0.57,0.5
+Abril, Kavčič, Portugal, Midfielder,0.75,0.89,0.32,0.7,0.51,0.2,0.6,0.4,0.45,0.47
+Abdelkader, Kelly, Croatia, Defender,0.07,0.54,0.32,0.3,0.92,0.91,0.61,0.73,0.4,0.57
+Damian, Kelly, Ghana, Midfielder,0.51,0.51,0.55,0.52,0.44,0.64,0.41,0.43,0.52,0.48
+Nesreen, Kelmendi, Brazil, Defender,0.27,0.59,0.23,0.33,0.56,0.38,0.34,0.76,0.23,0.51
+Brahim, Kennedy, Germany, Defender,0.11,0.75,0.5,0.2,0.98,0.41,0.38,0.77,0.79,0.54
+Aariz, Keo, England, Midfielder,0.63,0.71,0.39,0.47,0.65,0.24,0.66,0.48,0.9,0.54
+Somporn, Keo, Senegal, Defender,0.25,0.85,0.27,0.5,0.8,0.78,0.48,0.64,0.37,0.51
+Jack, Khat, Saudi Arabia, Forward,0.37,0.44,0.7,0.9,0.37,0.65,0.78,0.99,0.31,0.87
+Gaspar, Khat, Morocco, Goal Keeper,0.1,0.61,0.43,0.26,0.99,0.58,0.55,0.29,0.13,0.83
+Noel, Khay, Germany, Forward,0.48,0.53,0.83,0.98,0.5,0.33,0.69,0.48,0.36,0.86
+Natalija, Kheang, Croatia, Defender,0.11,0.67,0.5,0.05,0.93,0.59,0.84,0.33,0.2,0.62
+Enzo, Khiev, Switzerland, Midfielder,0.1,0.6,0.53,0.84,0.38,0.42,0.69,0.7,0.84,0.87
+Nikoloz, Khin, Wales, Midfielder,0.3,0.52,0.54,0.4,0.64,0.72,0.41,0.81,0.59,0.8
+Dimitra, Khin, Netherlands, Midfielder,0.22,0.65,0.55,0.57,0.51,0.24,0.58,0.53,0.55,0.76
+Poppy, Khin, Belgium, Forward,0.89,0.47,0.75,0.85,0.51,0.78,0.65,0.94,0.7,0.4
+Konstantina, Khlot, Saudi Arabia, Defender,0.14,0.53,0.3,0.5,0.67,0.63,0.57,0.57,0.78,0.65
+Ben, Khlot, Argentina, Midfielder,0.02,0.58,0.77,0.8,0.41,0.22,0.51,0.56,0.57,0.66
+Lur, Kim, England, Midfielder,0.44,0.64,0.48,0.39,0.31,0.42,0.56,0.98,0.46,0.89
+Sienna, Kim, Costa Rica, Midfielder,0.91,0.68,0.79,0.62,0.48,0.48,0.97,0.56,0.53,0.44
+Inès, King, Senegal, Midfielder,0.96,0.73,0.58,0.62,0.33,0.5,0.77,0.53,0.48,0.46
+Sevda, Kiss, Costa Rica, Midfielder,0.31,0.66,0.41,0.5,0.61,0.63,0.83,0.62,0.75,0.54
+Abdulaziz, Klemenčič, England, Midfielder,0.32,0.83,0.4,0.41,0.44,0.69,0.86,0.42,0.81,0.84
+Beatriz, Kolar, Cameroon, Goal Keeper,0.4,0.56,0.36,0.24,0.87,0.59,0.68,0.26,0.05,0.86
+Mamadou, Kolar, Croatia, Midfielder,0.55,0.54,0.63,0.53,0.43,0.49,0.57,0.84,0.36,0.72
+Narine, Kolla, Denmark, Defender,0.74,0.58,0.47,0.33,0.85,0.44,0.52,0.53,0.65,0.88
+Narine, Koller, Saudi Arabia, Defender,0.95,0.54,0.18,0.5,0.68,0.97,0.62,0.46,0.42,0.51
+Judeline, Košir, France, Defender,0.93,0.52,0.51,0.36,0.98,0.44,0.7,0.64,0.46,0.59
+Álvaro, Košir, Germany, Forward,0.49,0.68,0.76,0.52,0.35,0.48,0.63,0.74,0.88,0.65
+Barbara, Kotnik, Spain, Defender,0.47,0.69,0.34,0.28,0.57,1.09,0.62,0.39,0.78,0.64
+Elif, Kouch, Denmark, Midfielder,0.51,0.88,0.78,0.81,0.71,0.37,0.43,0.85,0.45,0.74
+Paula, Kovač, Belgium, Forward,0.37,0.68,0.87,0.85,0.54,0.36,0.89,0.56,0.62,0.72
+Kiaan, Kovačević, South Korea, Forward,0.75,0.48,0.78,0.94,0.55,0.62,0.73,0.99,0.32,0.43
+Ulloriaq, Kovačić, France, Midfielder,0.1,0.78,0.47,0.48,0.64,0.45,0.76,0.83,0.36,0.47
+Riccardo, Kowalski, Netherlands, Midfielder,0.97,0.89,0.48,0.56,0.68,0.72,0.5,0.73,0.48,0.73
+Helma, Kowalski, South Korea, Midfielder,0.98,0.78,0.57,0.35,0.5,0.55,0.84,0.49,0.42,0.62
+Jakov, Kowalski, Australia, Forward,0.84,0.67,0.87,0.42,0.37,0.45,0.74,0.4,0.62,0.43
+Artur, Krajnc, USA, Midfielder,0.0,0.89,0.57,0.85,0.66,0.33,0.69,0.54,0.36,0.77
+Maria Clara, Krawczyk, USA, Forward,0.61,0.46,0.77,0.83,0.2,0.45,0.99,0.67,0.47,0.88
+Victoria, Kristensen, Cameroon, Midfielder,0.25,0.56,0.33,0.81,0.75,0.52,0.87,0.42,0.67,0.85
+Raphaël, Kristensen, Costa Rica, Defender,0.9,0.74,0.56,0.51,0.76,0.72,0.59,0.75,0.24,0.7
+Harun, Kristi, Tunisia, Midfielder,0.26,0.54,0.38,0.33,0.47,0.55,0.93,0.57,0.52,0.82
+Bernardo, Kuen, Iran, Defender,0.78,0.62,0.13,0.51,0.51,0.7,0.49,0.69,0.5,0.51
+Hydar, Kumar, Poland, Forward,0.99,0.55,0.66,0.57,0.56,0.36,0.49,0.61,0.8,0.4
+Enzokuhle, Kuqi, Netherlands, Midfielder,0.66,0.74,0.58,0.82,0.33,0.69,0.71,0.65,0.9,0.74
+Renata, Kuqi, Serbia, Goal Keeper,0.53,0.58,0.56,0.37,0.73,0.36,0.72,0.36,0.15,0.95
+Mark, Laçi, Brazil, Midfielder,0.79,0.88,0.62,0.32,0.72,0.38,0.98,0.63,0.38,0.63
+Sebastian, Laçi, Germany, Defender,0.42,0.71,0.56,0.33,0.57,0.52,0.55,0.69,0.69,0.52
+David, Lakmal, Iran, Defender,0.73,0.81,0.26,0.18,0.76,0.34,0.36,0.44,0.39,0.62
+Lianne, Larsen, South Korea, Defender,0.56,0.53,0.32,0.11,0.54,0.54,0.57,0.48,0.18,0.98
+Aliya, Lau, Ecuador, Defender,0.96,0.68,0.48,0.3,0.84,0.45,0.41,0.39,0.4,0.77
+Iman, Laurent, Argentina, Defender,0.89,0.87,0.2,0.05,0.76,0.57,0.65,0.76,0.45,0.68
+Somayyeh, Lay, Serbia, Forward,0.18,0.45,0.56,0.94,0.41,0.64,0.49,0.97,0.31,0.58
+Maša, Lay, Canada, Defender,0.74,0.87,0.43,0.53,0.66,0.5,0.46,0.46,0.14,0.7
+Eliška, Lechner, Switzerland, Forward,0.19,0.62,0.64,0.66,0.4,0.52,0.9,0.72,0.79,0.56
+Muhammad, Lechner, Australia, Defender,0.16,0.82,0.54,0.57,0.62,0.89,0.76,0.55,0.19,0.79
+Okuhle, Leclercq, Brazil, Forward,0.36,0.61,0.63,0.8,0.37,0.72,0.82,0.45,0.47,0.83
+Umar, Ledesma, England, Forward,0.05,0.47,0.87,0.5,0.49,0.33,0.46,0.47,0.88,0.79
+Nur, Ledesma, Switzerland, Defender,0.31,0.72,0.24,0.12,0.53,0.87,0.82,0.47,0.29,0.96
+Umar, Lee, Portugal, Midfielder,0.87,0.52,0.49,0.83,0.65,0.7,0.93,0.52,0.49,0.64
+Karolína, Lefebvre, Saudi Arabia, Defender,0.1,0.66,0.52,0.57,0.92,0.51,0.86,0.47,0.27,0.85
+Marya, Leone, Serbia, Defender,0.72,0.75,0.59,0.3,0.71,0.59,0.32,0.49,0.62,0.93
+Moana, Leroy, Poland, Defender,0.06,0.52,0.47,0.01,0.71,0.59,0.68,0.31,0.79,0.88
+Alysha, Lim, Cameroon, Defender,0.43,0.64,0.22,0.34,0.95,0.67,0.83,0.52,0.23,0.69
+Zofia, Lim, Belgium, Forward,0.41,0.68,0.76,0.69,0.6,0.34,0.68,0.65,0.61,0.77
+Baаtar, Lín, Morocco, Defender,0.18,0.82,0.41,0.48,0.95,0.86,0.38,0.53,0.42,0.71
+Eithan, Lín, USA, Defender,0.92,0.61,0.36,0.56,0.8,0.55,0.84,0.55,0.75,0.61
+Chedeline, Liyanage, Poland, Midfielder,0.97,0.8,0.46,0.31,0.54,0.52,0.41,0.62,0.33,0.56
+Sheikh, Lombardo, Uruguay, Forward,0.65,0.48,0.87,0.81,0.23,0.42,0.57,0.58,0.77,0.75
+Alessandro, Lombardo, Ghana, Midfielder,0.13,0.76,0.39,0.37,0.69,0.4,0.55,0.48,0.53,0.78
+Helena, Long, Ghana, Midfielder,0.14,0.52,0.42,0.4,0.78,0.24,0.49,0.58,0.47,0.49
+Hina, Long, Denmark, Defender,0.07,0.81,0.31,0.17,0.67,0.46,0.44,0.23,0.42,0.93
+Kerem, López, Spain, Forward,0.36,0.56,0.52,0.91,0.63,0.45,0.97,0.93,0.98,0.5
+Aimar, Lovrić, Uruguay, Forward,0.5,0.47,0.73,0.73,0.64,0.43,0.55,0.54,0.76,0.84
+Frans, Lovrić, Canada, Midfielder,0.43,0.66,0.53,0.3,0.4,0.43,0.83,0.56,0.98,0.83
+Roko, Lovrić, Mexico, Goal Keeper,0.1,0.77,0.58,0.3,0.92,0.45,0.57,0.37,0.19,0.97
+Ámbar, Luka, South Korea, Midfielder,0.78,0.57,0.74,0.31,0.33,0.64,0.7,0.81,0.46,0.81
+Charles, Luka, Ecuador, Defender,0.86,0.81,0.37,0.42,0.55,0.39,0.62,0.44,0.33,0.78
+Yekaterina, Luna, Brazil, Midfielder,0.01,0.52,0.54,0.84,0.46,0.75,0.74,0.83,0.68,0.69
+Stanisław, Luó, Serbia, Defender,0.38,0.77,0.24,0.34,0.72,0.91,0.88,0.72,0.73,0.94
+Dion, Ly, Portugal, Forward,0.77,0.43,0.74,0.6,0.56,0.75,0.7,0.44,0.51,0.52
+Joaquín, Ly, Senegal, Midfielder,0.29,0.78,0.5,0.8,0.4,0.55,0.53,0.91,0.56,0.45
+Jori, Ma, USA, Goal Keeper,0.47,0.72,0.28,0.27,0.86,0.63,0.58,0.32,0.11,0.88
+Damian, Mǎ, Netherlands, Goal Keeper,0.19,0.5,0.33,0.28,0.79,0.61,0.72,0.36,0.13,0.89
+Jakub, Mǎ, Argentina, Goal Keeper,0.73,0.54,0.42,0.35,0.92,0.41,0.56,0.26,0.12,0.84
+Óliver, Machado, Cameroon, Midfielder,0.48,0.86,0.51,0.88,0.67,0.6,0.82,0.67,0.88,0.68
+Santiago, Machado, Iran, Forward,0.21,0.62,0.78,0.49,0.4,0.65,0.71,0.56,0.99,0.88
+Sama, Machado, Switzerland, Goal Keeper,0.7,0.68,0.35,0.27,0.81,0.37,0.46,0.36,0.14,0.88
+Kiaan, Madrigal, Portugal, Goal Keeper,0.7,0.51,0.56,0.21,0.75,0.68,0.63,0.27,0.15,0.84
+Lan, Madusanka, Australia, Midfielder,0.38,0.56,0.79,0.38,0.66,0.27,0.43,0.6,0.91,0.88
+Charbel, Madusanka, Germany, Defender,0.45,0.66,0.47,0.52,0.52,0.83,0.74,0.37,0.29,0.98
+Vár, Maldonado, Tunisia, Goal Keeper,0.83,0.82,0.32,0.28,0.73,0.53,0.74,0.23,0.15,0.86
+Emīls, Manukyan, Costa Rica, Forward,0.37,0.56,0.8,0.74,0.26,0.63,0.56,0.98,0.78,0.89
+Kathem, Marchetti, Saudi Arabia, Midfielder,0.35,0.72,0.64,0.49,0.71,0.61,0.55,0.46,0.84,0.41
+Alejandro, Marchetti, Switzerland, Defender,0.5,0.51,0.58,0.17,0.81,0.82,0.3,0.55,0.15,0.64
+Irene, Marchetti, Denmark, Forward,0.11,0.55,0.79,0.67,0.67,0.39,0.62,0.52,0.47,0.59
+Brandur, Margaryan, Poland, Midfielder,0.06,0.64,0.5,0.46,0.37,0.33,0.57,0.8,0.73,0.8
+Sobia, Mariani, Serbia, Defender,0.22,0.51,0.14,0.37,0.68,1.05,0.76,0.45,0.16,0.95
+Zahid, Marić, Saudi Arabia, Midfielder,0.29,0.53,0.62,0.73,0.49,0.63,0.48,0.59,0.33,0.81
+Abubakr, Marić, Serbia, Defender,0.74,0.75,0.17,0.37,0.53,0.99,0.47,0.75,0.7,0.72
+Luciana, Marić, Croatia, Midfielder,0.08,0.68,0.71,0.79,0.34,0.46,0.73,0.92,0.36,0.72
+Marco Antonio, Marín, Spain, Forward,0.06,0.54,0.84,0.86,0.6,0.56,0.5,0.53,0.47,0.47
+Mila, Marín, Germany, Defender,0.4,0.7,0.37,0.12,0.63,0.6,0.86,0.41,0.19,0.71
+Oier, Marini, Wales, Midfielder,0.31,0.89,0.66,0.41,0.31,0.21,0.51,0.66,0.34,0.55
+Freja, Marino, France, Forward,0.3,0.67,0.69,0.92,0.67,0.52,0.47,0.52,0.78,0.54
+Liam, Marković, South Korea, Defender,0.46,0.58,0.42,0.22,0.8,0.39,0.55,0.25,0.76,0.91
+Toivo, Marku, Canada, Midfielder,0.25,0.56,0.36,0.79,0.53,0.73,0.94,0.79,0.97,0.81
+Miloš, Marques, Netherlands, Midfielder,0.04,0.89,0.77,0.86,0.59,0.76,0.67,0.9,0.83,0.53
+Julia, Márquez, Uruguay, Goal Keeper,0.46,0.67,0.39,0.34,0.78,0.88,0.48,0.21,0.18,0.94
+Leandra, Martin, Iran, Midfielder,0.22,0.68,0.74,0.45,0.45,0.64,0.88,0.49,0.73,0.64
+Muhamad, Martinelli, Croatia, Forward,0.25,0.67,0.58,0.56,0.52,0.65,0.45,0.86,0.59,0.42
+Vita, Martínez, Ecuador, Defender,0.22,0.89,0.49,0.2,0.95,0.97,0.68,0.38,0.32,0.62
+Lucía, Martínez, Uruguay, Defender,0.76,0.56,0.19,0.29,0.78,0.8,0.43,0.55,0.67,0.63
+Joaquín, Martínez, Ghana, Defender,0.5,0.66,0.53,0.15,0.89,0.98,0.39,0.73,0.43,0.75
+Hana, Martini, South Korea, Defender,0.16,0.84,0.34,0.34,0.82,0.41,0.78,0.47,0.27,0.63
+Annika, Martino, Saudi Arabia, Defender,0.9,0.51,0.12,0.45,0.9,0.99,0.75,0.5,0.62,0.89
+Lubanzi, Martino, Netherlands, Forward,0.56,0.49,0.83,0.7,0.61,0.58,0.76,0.65,0.37,0.42
+Lilja, Martino, Croatia, Midfielder,0.1,0.67,0.56,0.41,0.44,0.55,0.92,0.42,0.53,0.59
+Giorgia, Martino, Switzerland, Defender,0.71,0.76,0.21,0.27,0.56,0.95,0.42,0.67,0.38,0.68
+Oliwia, Mayr, France, Midfielder,0.89,0.87,0.35,0.82,0.3,0.2,0.58,0.41,0.62,0.89
+Naranbaatar, McCarthy, Denmark, Midfielder,0.06,0.84,0.69,0.46,0.7,0.31,0.72,0.55,0.97,0.67
+Pol, Mean, Serbia, Midfielder,0.28,0.72,0.55,0.45,0.57,0.73,0.7,0.48,0.85,0.74
+Francesco, Mean, Argentina, Forward,0.51,0.61,0.73,0.89,0.23,0.35,0.52,0.52,0.39,0.79
+Asija, Meas, Brazil, Defender,0.18,0.65,0.53,0.57,0.93,0.96,0.43,0.31,0.11,0.73
+Helena, Meas, Denmark, Midfielder,0.69,0.72,0.78,0.34,0.76,0.37,0.63,0.44,0.74,0.5
+Juliana, Medina, Iran, Midfielder,0.82,0.5,0.42,0.81,0.49,0.37,0.45,0.45,0.93,0.71
+Nahia, Mehmedović, USA, Midfielder,0.18,0.51,0.3,0.53,0.33,0.79,0.9,0.96,0.8,0.84
+Ibrahim, Mehmedović, Spain, Defender,0.15,0.5,0.51,0.26,0.87,0.37,0.34,0.22,0.24,0.63
+Viktória, Mejía, Germany, Midfielder,0.46,0.58,0.55,0.65,0.55,0.74,0.88,0.45,0.82,0.42
+Hosniya, Mendes, Netherlands, Forward,0.11,0.56,0.66,0.8,0.39,0.41,0.95,0.65,0.7,0.51
+Enzo, Mendes, South Korea, Goal Keeper,0.51,0.87,0.52,0.23,0.72,0.97,0.91,0.33,0.05,0.8
+Mia, Mendis, Senegal, Forward,0.56,0.54,0.59,0.82,0.53,0.71,0.8,0.83,0.9,0.6
+Nurul, Mendoza, Canada, Forward,0.21,0.41,0.85,0.51,0.37,0.38,0.53,0.84,0.61,0.51
+Vugar, Messina, Poland, Midfielder,0.57,0.66,0.6,0.52,0.47,0.73,0.77,0.46,0.4,0.62
+Onni, Messina, Belgium, Midfielder,0.43,0.84,0.66,0.45,0.32,0.76,0.56,0.84,0.92,0.53
+Ji-woo, Miller, Germany, Defender,0.93,0.73,0.27,0.28,0.78,0.73,0.66,0.66,0.3,0.85
+Heloísa, Miranda, Cameroon, Midfielder,0.88,0.89,0.49,0.66,0.3,0.76,0.48,0.62,0.98,0.71
+Santiago, Miranda, Netherlands, Goal Keeper,0.86,0.71,0.17,0.35,0.75,0.63,0.9,0.26,0.02,0.97
+Ljiljana, Miranda, Qatar, Forward,0.96,0.51,0.67,0.41,0.66,0.73,0.74,0.84,0.85,0.88
+Oleksandr, Mitchell, South Korea, Defender,0.93,0.82,0.26,0.14,0.62,0.55,0.87,0.72,0.74,0.96
+Jana, Mohamed, South Korea, Forward,0.63,0.44,0.75,0.44,0.55,0.62,0.54,0.76,0.71,0.79
+Nutsa, Mohamed, Ecuador, Midfielder,0.28,0.66,0.77,0.62,0.33,0.56,0.85,0.46,0.69,0.52
+Robin, Mohamed, Belgium, Forward,0.42,0.55,0.63,0.82,0.52,0.59,0.46,0.87,0.44,0.51
+Estere, Møller, Cameroon, Defender,0.59,0.64,0.4,0.35,0.51,0.34,0.43,0.79,0.48,0.77
+Hur, Montanari, Saudi Arabia, Defender,0.22,0.74,0.3,0.49,0.94,0.65,0.46,0.23,0.24,0.6
+Vittoria, Monteiro, Tunisia, Defender,0.58,0.52,0.33,0.34,0.93,1.03,0.76,0.74,0.49,0.5
+Manaia, Monti, Cameroon, Defender,0.21,0.87,0.42,0.2,0.82,0.49,0.44,0.68,0.34,0.92
+Danna, Monti, Canada, Midfielder,0.83,0.54,0.79,0.76,0.63,0.37,0.83,0.86,0.86,0.4
+Ajla, Moore, Australia, Midfielder,0.62,0.84,0.39,0.78,0.71,0.41,0.87,0.79,0.66,0.51
+Konul, Moore, Germany, Goal Keeper,0.7,0.7,0.39,0.23,0.91,0.86,0.47,0.31,0.08,0.95
+Nurislam, Morales, Morocco, Defender,0.38,0.79,0.59,0.01,0.99,0.97,0.53,0.22,0.13,0.83
+Carmen, Moreau, Serbia, Forward,0.98,0.59,0.76,0.91,0.6,0.43,0.44,0.93,0.41,0.73
+Lilja, Moreau, USA, Defender,0.23,0.7,0.36,0.34,0.76,0.77,0.61,0.44,0.75,0.52
+Nela, Moreira, Serbia, Forward,0.6,0.57,0.62,0.47,0.34,0.4,0.78,0.6,0.61,0.6
+Haruto, Morel, England, Defender,0.05,0.73,0.57,0.33,0.66,0.65,0.76,0.38,0.57,0.97
+Ella, Morelli, Senegal, Defender,0.91,0.79,0.22,0.58,0.79,0.45,0.81,0.5,0.76,0.61
+María José, Moreno, Japan, Forward,0.39,0.55,0.86,0.77,0.28,0.79,0.52,0.9,0.94,0.82
+Amy, Morgan, Costa Rica, Forward,0.23,0.41,0.54,0.74,0.51,0.72,0.75,0.8,0.63,0.55
+Danijel, Morris, England, Goal Keeper,0.34,0.89,0.26,0.32,0.95,0.49,0.59,0.26,0.15,0.96
+Iman, Morris, Brazil, Forward,0.9,0.66,0.64,0.98,0.35,0.39,0.97,0.7,0.62,0.41
+Nina, Mul, Morocco, Defender,0.18,0.7,0.45,0.29,0.61,1.05,0.73,0.73,0.23,0.5
+Katya, Mun, USA, Forward,0.45,0.66,0.65,0.88,0.49,0.38,0.59,0.75,0.61,0.52
+Hydar, Munasinghe, Argentina, Midfielder,0.09,0.82,0.52,0.46,0.31,0.44,0.74,0.44,0.63,0.59
+Naranbaatar, Muñoz, England, Forward,0.96,0.53,0.81,0.49,0.48,0.52,0.99,0.62,0.88,0.42
+João Miguel, Muñoz, Ghana, Forward,0.05,0.43,0.89,0.77,0.38,0.66,0.48,0.53,0.87,0.64
+Ahmad, Muoy, Qatar, Defender,0.65,0.62,0.5,0.39,0.56,0.82,0.43,0.71,0.46,0.85
+Hussain, Muratović, France, Midfielder,0.02,0.82,0.77,0.35,0.63,0.65,0.53,0.48,0.68,0.44
+Moana, Murphy, Netherlands, Defender,0.24,0.65,0.22,0.12,0.79,0.97,0.4,0.35,0.23,0.69
+Tatiana, Murphy, Senegal, Forward,0.04,0.4,0.7,0.92,0.59,0.6,0.94,0.49,0.95,0.52
+Reza, Nagy, Uruguay, Defender,0.87,0.75,0.13,0.46,0.62,0.35,0.77,0.68,0.28,0.87
+Riccardo, Nagy, Canada, Midfielder,0.2,0.72,0.63,0.38,0.76,0.45,0.64,0.55,0.72,0.47
+Rosmery, Nava, Saudi Arabia, Forward,0.36,0.62,0.74,0.4,0.35,0.46,0.49,0.93,0.89,0.76
+Ivy, Németh, Serbia, Midfielder,0.17,0.61,0.39,0.64,0.68,0.72,0.5,0.92,0.46,0.64
+Maddi, Nielsen, Serbia, Defender,0.48,0.68,0.42,0.53,0.65,0.89,0.51,0.46,0.59,0.84
+Maja, Nielsen, Croatia, Midfielder,0.1,0.8,0.57,0.58,0.56,0.23,0.7,0.48,0.82,0.43
+Mikaere, Nikolla, Denmark, Midfielder,0.31,0.63,0.36,0.56,0.66,0.68,0.54,0.85,0.5,0.46
+Adriana, Novak, Croatia, Forward,0.44,0.46,0.66,0.97,0.56,0.75,0.68,0.99,0.33,0.49
+Nathan, Núñez, Senegal, Forward,0.65,0.54,0.8,0.94,0.31,0.52,0.61,0.64,0.57,0.72
+Dominik, Ny, Belgium, Midfielder,0.05,0.66,0.32,0.55,0.45,0.36,0.98,0.75,0.3,0.42
+Okuhle, O, Switzerland, Midfielder,0.48,0.57,0.44,0.53,0.47,0.25,0.86,0.82,0.98,0.74
+Viraj, O'Connor, Spain, Midfielder,0.38,0.66,0.39,0.45,0.39,0.51,0.97,0.78,0.69,0.65
+Alikhan, O'Connor, Spain, Midfielder,0.99,0.65,0.4,0.4,0.5,0.32,0.5,0.84,0.97,0.53
+Lana, O'Doherty, Belgium, Midfielder,0.16,0.61,0.46,0.4,0.38,0.59,0.98,0.59,0.82,0.54
+Elenia, O'Doherty, Australia, Forward,0.59,0.54,0.52,0.81,0.57,0.75,0.82,0.65,0.56,0.41
+Tamatoa, O'Neill, Portugal, Goal Keeper,0.07,0.67,0.27,0.39,0.78,0.84,0.91,0.29,0.01,0.86
+Qillaq, O'Neill, Ecuador, Forward,0.67,0.43,0.56,0.56,0.43,0.36,0.41,0.91,0.47,0.79
+Polina, O'Neill, Belgium, Defender,0.09,0.84,0.46,0.18,0.5,0.6,0.57,0.57,0.25,0.53
+Imene, O'Quinn, France, Forward,0.77,0.45,0.84,0.98,0.54,0.61,0.65,0.79,0.61,0.87
+Demetre, O'Quinn, Japan, Midfielder,0.63,0.82,0.31,0.49,0.34,0.4,0.82,0.99,0.36,0.69
+Modibo, O'Reilly, Denmark, Forward,0.13,0.67,0.76,0.48,0.5,0.37,0.42,0.94,0.4,0.54
+Siyabonga, O'Ryan, Ghana, Goal Keeper,0.48,0.68,0.14,0.27,0.78,0.66,0.89,0.36,0.12,0.97
+Elisa, Oh, Poland, Forward,0.39,0.6,0.75,0.54,0.28,0.51,0.84,0.53,0.4,0.67
+Kamilė, Oh, Germany, Midfielder,0.44,0.59,0.41,0.79,0.47,0.59,0.97,0.84,0.55,0.73
+Toivo, Ok, Switzerland, Midfielder,0.55,0.69,0.49,0.78,0.3,0.66,0.85,0.76,0.73,0.51
+Michal, Oláh, Brazil, Forward,0.68,0.45,0.88,0.96,0.47,0.43,0.42,0.49,0.6,0.41
+Lethabo, Om, France, Forward,0.41,0.53,0.62,0.61,0.45,0.72,0.7,0.58,0.69,0.85
+Ahmad, Ong, Serbia, Forward,0.7,0.54,0.82,0.59,0.35,0.49,0.94,0.95,0.44,0.61
+Maddi, Orlando, Argentina, Defender,0.13,0.82,0.19,0.59,0.65,0.8,0.57,0.57,0.62,0.83
+Sem, Ortíz, Morocco, Midfielder,0.45,0.61,0.52,0.49,0.64,0.22,0.62,0.91,0.67,0.88
+Tomás, Otero, Portugal, Defender,0.67,0.88,0.12,0.24,0.83,1.08,0.85,0.55,0.54,0.68
+Ali Asaf, Pagano, Canada, Defender,0.29,0.79,0.41,0.24,0.64,0.8,0.74,0.46,0.55,0.7
+Ginevra, Palmieri, Wales, Midfielder,0.21,0.61,0.47,0.33,0.31,0.7,0.47,0.7,0.68,0.4
+Karim, Pang, Germany, Defender,0.33,0.84,0.32,0.45,0.55,0.79,0.56,0.69,0.29,0.87
+Shu-chuan, Papp, USA, Forward,0.72,0.63,0.88,0.66,0.66,0.72,0.85,0.51,0.3,0.53
+Marwa, Parisi, Cameroon, Forward,0.57,0.67,0.66,0.43,0.68,0.49,0.54,0.76,0.91,0.81
+Leonardo, Park, Cameroon, Forward,0.68,0.66,0.81,0.65,0.63,0.74,0.48,0.44,0.83,0.73
+Marc, Park, Poland, Midfielder,0.89,0.67,0.37,0.63,0.68,0.51,0.52,0.81,0.52,0.42
+Tomás, Pavić, Poland, Defender,0.0,0.5,0.36,0.55,0.77,0.98,0.74,0.25,0.21,0.6
+Elias, Pavlović, Australia, Defender,0.14,0.62,0.33,0.52,0.58,0.4,0.52,0.2,0.5,0.69
+Anastasia, Pech, Australia, Forward,0.12,0.47,0.62,0.45,0.47,0.63,0.52,0.89,0.75,0.66
+Isaac, Pedersen, Poland, Goal Keeper,0.14,0.57,0.31,0.35,0.7,0.71,0.54,0.23,0.1,0.84
+Archie, Pedersen, Argentina, Defender,0.21,0.74,0.3,0.07,0.57,1.04,0.39,0.32,0.16,0.6
+Alisa, Peiris, Ecuador, Forward,0.66,0.66,0.76,0.53,0.59,0.46,0.96,0.71,0.73,0.72
+Ji-a, Pellegrino, Japan, Defender,0.6,0.55,0.56,0.4,0.76,0.42,0.44,0.78,0.3,0.98
+Asmita, Peralta, Brazil, Defender,0.35,0.56,0.35,0.34,0.56,0.42,0.84,0.79,0.14,0.94
+Aviana, Pereira, Costa Rica, Defender,0.9,0.8,0.54,0.17,0.71,0.34,0.38,0.22,0.24,0.97
+Amelija, Pereyra, Uruguay, Midfielder,0.43,0.6,0.49,0.38,0.62,0.62,0.83,0.61,0.76,0.61
+Susanna, Pérez, France, Defender,0.54,0.8,0.54,0.11,0.65,0.31,0.86,0.21,0.35,0.88
+Pablo, Perić, Costa Rica, Midfielder,0.33,0.89,0.67,0.41,0.69,0.63,0.65,0.41,0.64,0.69
+Nojus, Perić, Brazil, Goal Keeper,0.16,0.79,0.12,0.22,0.85,0.72,0.66,0.28,0.0,0.85
+Saqib, Përmeti, Wales, Defender,0.38,0.89,0.43,0.07,0.81,0.89,0.82,0.33,0.76,0.59
+Matei, Peters, Cameroon, Defender,0.03,0.55,0.27,0.56,0.62,0.67,0.62,0.56,0.25,0.79
+Alina, Petersen, Spain, Defender,0.13,0.51,0.26,0.15,0.72,0.75,0.72,0.78,0.65,0.83
+Amina, Peterson, Croatia, Forward,0.35,0.45,0.68,0.52,0.68,0.64,0.45,0.72,0.6,0.69
+Aysel, Petit, Netherlands, Forward,0.09,0.62,0.78,0.5,0.62,0.3,0.68,0.54,0.62,0.6
+Ámbar, Petit, Senegal, Defender,0.67,0.77,0.25,0.12,0.54,0.5,0.43,0.63,0.42,0.71
+Nehir, Phillips, Mexico, Midfielder,0.62,0.8,0.66,0.33,0.53,0.6,0.65,0.74,0.34,0.65
+Mehmet, Pichler, Belgium, Midfielder,0.23,0.58,0.39,0.56,0.61,0.77,0.79,0.51,0.88,0.65
+Margaret, Pinto, Iran, Forward,0.87,0.46,0.75,0.7,0.66,0.51,0.54,0.69,0.76,0.8
+Zuzanna, Pinto, Argentina, Goal Keeper,0.09,0.59,0.27,0.39,0.86,0.59,0.72,0.33,0.18,0.95
+Raphaël, Pinto, Japan, Midfielder,0.13,0.75,0.77,0.35,0.57,0.51,0.81,0.79,0.81,0.45
+Mahammad, Pinto, Australia, Defender,0.12,0.83,0.46,0.17,0.68,0.77,0.83,0.5,0.34,0.77
+Agustín, Piotrowski, Portugal, Midfielder,0.32,0.75,0.77,0.73,0.62,0.35,0.89,0.62,0.9,0.71
+Titaina, Piotrowski, Netherlands, Forward,0.41,0.56,0.56,0.61,0.26,0.48,0.57,0.4,0.61,0.53
+Fátima, Piras, Senegal, Goal Keeper,0.61,0.67,0.39,0.34,0.72,0.53,0.71,0.32,0.01,0.94
+Arman, Pires, Spain, Midfielder,0.66,0.72,0.42,0.54,0.57,0.27,0.69,0.96,0.9,0.86
+Malachi, Poghosyan, Croatia, Goal Keeper,0.7,0.65,0.57,0.36,0.97,0.93,0.87,0.33,0.19,0.95
+Léa, Poghosyan, Japan, Defender,0.08,0.8,0.27,0.18,0.81,0.36,0.82,0.72,0.38,0.61
+Alexandru, Popović, Netherlands, Midfielder,0.96,0.68,0.69,0.35,0.73,0.27,0.83,0.56,0.77,0.6
+Marko, Popović, Tunisia, Midfielder,0.61,0.66,0.67,0.5,0.49,0.51,0.81,0.45,0.58,0.79
+Francesco, Popović, Tunisia, Forward,0.07,0.51,0.57,0.67,0.62,0.54,0.55,0.95,0.3,0.65
+Tess, Popović, Japan, Goal Keeper,0.47,0.73,0.19,0.25,0.99,0.43,0.65,0.29,0.17,0.8
+Khrystyna, Popović, Canada, Goal Keeper,0.69,0.65,0.53,0.35,0.73,0.66,0.58,0.3,0.08,0.89
+Huseyn, Powell, Saudi Arabia, Midfielder,0.47,0.83,0.66,0.31,0.66,0.24,0.7,0.85,0.89,0.88
+Mark, Prak, Ecuador, Midfielder,0.23,0.51,0.51,0.71,0.55,0.68,0.62,0.63,0.74,0.52
+Tuleen, Price, Costa Rica, Midfielder,0.49,0.58,0.47,0.85,0.51,0.25,0.59,0.82,0.65,0.65
+Poema, Prieto, USA, Defender,0.05,0.77,0.46,0.4,0.9,0.89,0.73,0.79,0.12,0.66
+Eliška, Prishtina, Wales, Forward,0.42,0.46,0.66,0.66,0.65,0.62,0.74,0.59,0.85,0.78
+Pau, Prishtina, Tunisia, Defender,0.17,0.8,0.37,0.14,0.57,0.52,0.41,0.32,0.1,0.65
+Markuss, Quinn, Canada, Goal Keeper,0.21,0.83,0.55,0.39,0.87,0.61,0.95,0.38,0.0,0.83
+Widelene, Quinn, Mexico, Defender,0.47,0.89,0.42,0.14,0.66,0.36,0.79,0.47,0.78,0.6
+Koa, Radić, Uruguay, Goal Keeper,0.6,0.86,0.11,0.24,0.89,0.78,0.8,0.29,0.0,0.98
+Nahia, Radić, Senegal, Forward,0.6,0.49,0.6,0.42,0.54,0.46,0.89,0.64,0.82,0.7
+Prasert, Radić, Denmark, Forward,0.45,0.65,0.59,0.94,0.29,0.48,0.62,0.4,0.38,0.69
+Ronja, Rahman, Cameroon, Forward,0.0,0.51,0.67,0.88,0.47,0.61,0.55,0.61,0.43,0.57
+Ye-jun, Ramirez, Japan, Forward,0.76,0.42,0.89,0.79,0.31,0.66,0.43,0.93,0.42,0.71
+Dyllan, Ranasinghe, Wales, Forward,0.54,0.55,0.71,0.58,0.23,0.49,0.56,0.54,0.75,0.66
+Sevda, Rasmussen, Croatia, Forward,0.29,0.51,0.86,0.57,0.5,0.74,0.47,0.9,0.85,0.78
+Aada, Ratnayake, Cameroon, Defender,0.37,0.67,0.31,0.16,0.7,0.45,0.6,0.35,0.74,0.6
+Joaquín, Ratnayake, Portugal, Forward,0.57,0.48,0.58,0.54,0.32,0.45,0.46,0.54,0.36,0.43
+Ali, Reed, Saudi Arabia, Forward,0.19,0.48,0.58,0.72,0.39,0.77,0.52,0.83,0.39,0.75
+Azra, Reed, Argentina, Midfielder,0.01,0.74,0.31,0.82,0.4,0.6,0.84,0.59,0.54,0.88
+Moea, Reed, Canada, Defender,0.16,0.52,0.36,0.19,0.55,0.79,0.47,0.37,0.45,0.88
+Prasert, Rhee, Australia, Midfielder,0.39,0.62,0.51,0.31,0.36,0.32,0.59,0.59,0.63,0.79
+Míngzé, Rhim, Morocco, Midfielder,0.21,0.63,0.59,0.78,0.75,0.52,0.99,0.46,0.94,0.42
+Keanu, Rim, Senegal, Midfielder,0.98,0.81,0.31,0.56,0.31,0.79,0.98,0.8,0.49,0.82
+Lubanzi, Rim, Germany, Midfielder,0.54,0.73,0.62,0.48,0.49,0.25,0.62,0.8,0.87,0.59
+Lucía, Rinaldi, England, Midfielder,0.6,0.86,0.58,0.63,0.37,0.48,0.58,0.58,0.93,0.86
+Oihan, Ríos, Netherlands, Midfielder,0.42,0.72,0.35,0.58,0.49,0.6,0.49,0.78,0.53,0.84
+Gunay, Riva, USA, Midfielder,0.16,0.64,0.66,0.79,0.65,0.4,0.99,0.55,0.37,0.76
+Nehir, Rivas, USA, Midfielder,0.09,0.67,0.35,0.82,0.42,0.48,0.59,0.65,0.35,0.69
+Keven, Roberts, USA, Midfielder,0.92,0.62,0.33,0.39,0.61,0.72,0.85,0.55,0.42,0.49
+Alfred, Robles, Tunisia, Forward,0.41,0.61,0.88,0.71,0.44,0.77,0.76,0.7,0.78,0.62
+Yasmine, Rodrigo, Cameroon, Forward,0.29,0.43,0.5,0.43,0.22,0.76,0.43,0.86,0.77,0.66
+Simona, Rodrigues, Morocco, Forward,0.6,0.46,0.8,0.55,0.29,0.69,0.7,0.8,0.71,0.84
+Rethabile, Rodriguez, Portugal, Defender,0.54,0.55,0.31,0.17,0.69,0.99,0.8,0.79,0.17,0.73
+Rayana, Rodriguez, Costa Rica, Defender,0.88,0.53,0.25,0.59,0.94,0.72,0.81,0.38,0.3,0.84
+Baаtar, Rodriguez, Costa Rica, Forward,0.9,0.6,0.82,0.4,0.37,0.44,0.63,0.53,0.47,0.46
+Tiare, Rodriguez, Qatar, Forward,0.22,0.68,0.88,0.47,0.25,0.6,0.95,0.91,0.41,0.71
+Ayim, Rojas, Argentina, Forward,0.49,0.6,0.74,0.66,0.51,0.4,0.62,0.46,0.41,0.81
+Eleni, Rojas, Ghana, Forward,0.67,0.47,0.76,0.93,0.23,0.72,0.51,0.8,0.33,0.78
+Fahad, Romano, Cameroon, Midfielder,0.54,0.59,0.54,0.57,0.65,0.25,0.51,0.6,0.37,0.55
+Chin-lung, Romano, Mexico, Midfielder,0.29,0.51,0.72,0.76,0.32,0.55,0.99,0.93,0.47,0.85
+Esma, Romeo, Denmark, Midfielder,0.37,0.77,0.69,0.88,0.43,0.66,0.84,0.76,0.84,0.47
+Viktoria, Rosas, Iran, Midfielder,0.59,0.85,0.59,0.68,0.71,0.37,0.48,0.56,0.59,0.56
+Samvel, Rosas, Ecuador, Midfielder,0.84,0.71,0.37,0.89,0.46,0.47,0.54,0.66,0.86,0.42
+Valdemar, Ross, France, Defender,0.07,0.53,0.53,0.23,0.85,0.67,0.54,0.54,0.42,0.52
+Harun, Rossetti, Tunisia, Midfielder,0.09,0.53,0.51,0.72,0.6,0.24,0.57,0.9,0.64,0.82
+Victoria, Rossetti, Spain, Forward,0.07,0.54,0.82,0.42,0.42,0.63,0.69,0.85,0.78,0.77
+Rethabile, Rossetti, Denmark, Goal Keeper,0.19,0.7,0.47,0.2,0.99,0.95,0.44,0.38,0.1,0.8
+Hina, Rossi, Switzerland, Defender,0.69,0.66,0.41,0.38,0.74,0.93,0.31,0.74,0.47,0.9
+Nikola, Rossi, Switzerland, Forward,0.6,0.57,0.88,0.64,0.22,0.38,0.46,0.95,0.43,0.52
+Hosniya, Rous, Saudi Arabia, Midfielder,0.64,0.69,0.68,0.65,0.65,0.66,0.98,0.83,0.51,0.73
+Yusif, Rous, Poland, Midfielder,0.6,0.69,0.48,0.79,0.64,0.78,0.86,0.52,0.42,0.6
+Camila, Rous, Belgium, Defender,0.74,0.87,0.2,0.12,0.62,0.54,0.84,0.51,0.64,0.89
+Neža, Roux, Tunisia, Goal Keeper,0.62,0.62,0.22,0.28,0.9,0.34,0.91,0.37,0.07,0.96
+Kamilė, Rozman, Morocco, Goal Keeper,0.21,0.7,0.32,0.29,0.72,0.82,0.92,0.2,0.04,0.81
+Micaela, Rozman, Uruguay, Defender,0.59,0.72,0.39,0.52,0.91,0.33,0.82,0.45,0.6,0.56
+Princess, Rubio, Netherlands, Forward,0.8,0.48,0.64,0.8,0.4,0.52,0.47,0.81,0.98,0.59
+Carolina, Ruíz, Japan, Midfielder,0.91,0.8,0.45,0.82,0.74,0.62,0.53,0.47,0.57,0.67
+Ji-woo, Ruíz, Ghana, Forward,0.42,0.64,0.74,0.54,0.61,0.69,0.54,0.92,0.92,0.4
+Amir-Abbas, Russell, Australia, Midfielder,0.93,0.86,0.79,0.65,0.54,0.29,0.64,0.71,0.56,0.75
+Marya, Russell, Germany, Forward,0.69,0.67,0.65,0.65,0.41,0.34,0.73,0.43,0.81,0.56
+Mía, Ryang, Poland, Goal Keeper,0.73,0.5,0.53,0.27,0.87,0.54,0.47,0.27,0.02,0.84
+Maja, Ryoo, USA, Defender,0.58,0.84,0.46,0.49,0.79,0.65,0.82,0.7,0.27,0.66
+Conor, Ryu, Croatia, Defender,0.99,0.54,0.25,0.06,0.99,0.87,0.55,0.48,0.2,0.73
+Nora, Sala, Brazil, Forward,0.2,0.48,0.76,0.86,0.32,0.47,0.84,0.94,0.33,0.56
+Hussain, Salas, Cameroon, Defender,0.35,0.65,0.5,0.47,0.55,0.51,0.71,0.31,0.41,0.72
+Wateen, Salas, Netherlands, Defender,0.78,0.74,0.41,0.32,0.71,0.85,0.43,0.79,0.71,0.76
+José, Salazar, Germany, Midfielder,0.27,0.7,0.36,0.59,0.64,0.42,0.85,0.71,0.82,0.43
+Konstantinos, Sam, Canada, Midfielder,0.68,0.62,0.73,0.67,0.63,0.24,0.99,0.58,0.37,0.7
+Si-woo, Samarasinghe, England, Goal Keeper,0.64,0.86,0.32,0.29,0.77,0.55,0.85,0.29,0.01,0.83
+Sherifa, San, Poland, Defender,0.14,0.51,0.38,0.18,0.75,0.31,0.67,0.76,0.46,0.93
+Maria Alice, San, Mexico, Midfielder,0.87,0.89,0.56,0.68,0.7,0.36,0.83,0.57,0.5,0.65
+Noûr, Sánchez, Senegal, Defender,0.44,0.86,0.28,0.02,0.85,0.7,0.71,0.43,0.71,0.98
+Marta, Sang, England, Midfielder,0.5,0.58,0.43,0.52,0.68,0.2,0.6,0.56,0.58,0.61
+Basiliki, Sanna, Tunisia, Goal Keeper,0.05,0.82,0.29,0.32,0.73,0.78,0.5,0.29,0.07,0.94
+Mihail, Sanz, Qatar, Midfielder,0.37,0.84,0.65,0.8,0.46,0.32,0.88,0.86,0.51,0.51
+Julie, Sargsyan, Brazil, Goal Keeper,0.28,0.67,0.16,0.23,0.94,0.8,0.83,0.39,0.0,0.96
+Sunita, Sargsyan, Ecuador, Forward,0.28,0.63,0.89,0.4,0.45,0.47,0.87,0.4,0.94,0.5
+Sebastian, Sargsyan, Switzerland, Defender,0.63,0.81,0.41,0.09,0.74,0.77,0.51,0.73,0.45,0.73
+Reema, Sat, Switzerland, Defender,0.98,0.8,0.38,0.02,0.61,0.47,0.35,0.56,0.77,0.57
+Artiom, Schneider, Spain, Forward,0.01,0.55,0.56,0.91,0.29,0.73,0.59,0.76,0.75,0.56
+Tess, Schneider, Mexico, Forward,0.2,0.65,0.63,0.68,0.33,0.69,0.52,0.75,0.69,0.48
+Matilde, Schulz, Morocco, Forward,0.31,0.48,0.8,0.5,0.57,0.69,0.99,0.55,0.89,0.4
+Shu-hua, Schuster, Argentina, Midfielder,0.26,0.87,0.46,0.89,0.43,0.67,0.52,0.94,0.78,0.48
+Emil, Schuster, Australia, Goal Keeper,0.67,0.56,0.43,0.25,0.71,0.57,0.94,0.3,0.11,0.82
+Kabita, Scott, France, Midfielder,0.78,0.89,0.3,0.52,0.59,0.56,0.97,0.96,0.54,0.87
+Máté, Seang, Uruguay, Midfielder,0.08,0.52,0.41,0.49,0.33,0.31,0.91,0.47,0.53,0.44
+Kevin, Senanayake, Germany, Forward,0.85,0.56,0.62,0.87,0.54,0.3,0.55,0.9,0.67,0.72
+Tarita, Seng, Australia, Defender,0.42,0.73,0.31,0.06,0.75,0.87,0.6,0.57,0.39,0.54
+Selim, Seo, Canada, Forward,0.11,0.44,0.79,0.64,0.28,0.62,0.98,0.75,0.45,0.4
+Tarita, Seoh, Saudi Arabia, Forward,0.02,0.63,0.6,0.87,0.23,0.54,0.69,0.66,0.97,0.59
+Adama, Seoung, England, Forward,0.28,0.58,0.88,0.58,0.45,0.6,0.74,0.97,0.88,0.48
+Jóhan, Seoung, Brazil, Defender,0.82,0.68,0.45,0.38,0.65,0.98,0.35,0.68,0.28,0.73
+Tatiana, Seoung, Belgium, Defender,0.45,0.81,0.15,0.58,0.86,1.01,0.54,0.68,0.72,0.92
+Luciana, Seoung, Denmark, Defender,0.69,0.86,0.28,0.57,0.71,0.69,0.8,0.32,0.46,0.75
+Gunel, Sharma, Senegal, Goal Keeper,0.49,0.79,0.14,0.23,0.86,0.32,0.84,0.23,0.01,0.95
+Ella, Shehu, Cameroon, Midfielder,0.67,0.88,0.72,0.86,0.54,0.67,0.6,0.45,0.84,0.69
+Elsa, Shkodra, South Korea, Defender,0.38,0.54,0.37,0.39,0.79,0.87,0.42,0.53,0.12,0.68
+Siya, Shkodra, Uruguay, Defender,0.4,0.87,0.17,0.25,0.91,0.78,0.38,0.57,0.68,0.56
+Georgios, Sieng, Canada, Goal Keeper,0.17,0.59,0.28,0.28,0.81,0.97,0.93,0.31,0.19,0.93
+Marko, Silva, Brazil, Defender,0.91,0.79,0.46,0.31,0.72,0.74,0.89,0.78,0.5,0.51
+Agustín, Simon, Saudi Arabia, Midfielder,0.15,0.85,0.48,0.87,0.77,0.67,0.64,0.73,0.31,0.61
+Murad, Sin, Argentina, Defender,0.91,0.55,0.24,0.29,0.66,0.62,0.71,0.6,0.48,0.98
+Yusuf, Sinani, Mexico, Defender,0.39,0.53,0.56,0.09,0.8,0.6,0.64,0.26,0.22,0.92
+Keanu, Smit, Iran, Midfielder,0.79,0.54,0.53,0.67,0.55,0.61,0.85,0.53,0.41,0.51
+Ander, Smith, Ecuador, Defender,0.38,0.88,0.28,0.1,0.8,0.98,0.88,0.69,0.74,0.51
+Sita, Soares, Croatia, Defender,0.12,0.72,0.42,0.34,0.93,0.43,0.73,0.62,0.31,0.5
+Kyriaki, Sohn, Brazil, Midfielder,0.36,0.81,0.69,0.34,0.61,0.78,0.86,0.52,0.49,0.43
+Mykhailo, Sohn, Tunisia, Midfielder,0.34,0.66,0.36,0.49,0.55,0.65,0.91,0.92,0.35,0.87
+Judeline, Solís, Poland, Goal Keeper,0.9,0.89,0.2,0.28,0.88,0.88,0.68,0.26,0.13,0.92
+Beshoi, Solís, Belgium, Goal Keeper,0.73,0.74,0.28,0.39,0.88,0.97,0.95,0.38,0.15,0.89
+Žan, Song, Qatar, Defender,0.58,0.85,0.54,0.54,0.98,0.64,0.67,0.36,0.41,0.54
+Fatin, Sonn, Poland, Defender,0.57,0.83,0.35,0.37,0.58,0.89,0.82,0.77,0.3,0.98
+Somporn, Sor, Netherlands, Midfielder,0.38,0.66,0.77,0.43,0.53,0.75,0.91,0.56,0.9,0.4
+Rose, Sor, Japan, Midfielder,0.38,0.85,0.7,0.49,0.75,0.33,0.54,0.79,0.71,0.7
+María José, Sorrentino, Brazil, Defender,0.59,0.66,0.35,0.46,0.57,1.07,0.83,0.66,0.19,0.88
+Mohammad-Taha, Sorrentino, Uruguay, Midfielder,0.09,0.75,0.61,0.4,0.42,0.3,0.56,0.52,0.75,0.76
+Ilija, Soto, Denmark, Midfielder,0.09,0.65,0.73,0.71,0.79,0.41,0.8,0.7,0.49,0.72
+Eymen, Soto, Australia, Midfielder,0.45,0.55,0.45,0.37,0.47,0.3,0.93,0.47,0.65,0.87
+Christos, Soun, Morocco, Forward,0.17,0.44,0.83,0.66,0.57,0.43,0.73,0.49,0.78,0.71
+Tomáš, Steiner, Wales, Midfielder,0.89,0.62,0.36,0.57,0.41,0.22,0.43,0.45,0.87,0.76
+José Luis, Suárez, Costa Rica, Goal Keeper,0.18,0.6,0.27,0.35,0.91,0.82,0.56,0.24,0.13,0.96
+Ramón, Suárez, Tunisia, Forward,0.28,0.56,0.68,0.86,0.67,0.55,0.8,0.69,0.93,0.84
+Khongordzol, Suljić, Cameroon, Forward,0.93,0.63,0.53,0.4,0.61,0.74,0.93,0.56,0.68,0.63
+Ashot, Szabó, Costa Rica, Midfielder,0.1,0.51,0.69,0.42,0.5,0.25,0.57,0.88,0.73,0.8
+Halim, Szabó, Poland, Midfielder,0.12,0.61,0.71,0.71,0.72,0.55,0.9,0.72,0.73,0.61
+Adama, Szabó, Spain, Goal Keeper,0.85,0.62,0.43,0.22,0.73,0.69,0.55,0.29,0.09,0.81
+Azra, Szabó, Canada, Forward,0.89,0.42,0.75,0.63,0.47,0.52,0.63,0.72,0.97,0.6
+William, Szabó, Australia, Midfielder,0.88,0.76,0.61,0.71,0.74,0.63,0.5,0.58,0.91,0.88
+Sobia, Taing, Qatar, Defender,0.26,0.69,0.18,0.02,0.92,0.73,0.31,0.66,0.61,0.81
+Jovana, Taing, Australia, Goal Keeper,0.81,0.8,0.5,0.28,0.74,0.78,0.41,0.24,0.1,0.87
+Anar, Tapia, Canada, Defender,0.12,0.51,0.54,0.22,0.57,1.04,0.4,0.23,0.7,0.62
+Siti, Tavares, South Korea, Forward,0.66,0.53,0.72,0.87,0.48,0.31,0.92,0.75,0.99,0.54
+David, Tavares, South Korea, Forward,0.61,0.54,0.81,0.77,0.65,0.4,0.66,0.86,0.42,0.88
+Gabriele, Tavares, Senegal, Forward,0.01,0.45,0.63,0.49,0.66,0.36,0.44,0.95,0.44,0.48
+Sophie, Taylor, England, Goal Keeper,0.7,0.58,0.18,0.2,0.91,0.91,0.83,0.37,0.17,0.85
+Georgios, Taylor, South Korea, Forward,0.21,0.69,0.63,0.61,0.48,0.73,0.75,0.64,0.47,0.67
+Shivansh, Teav, Serbia, Midfielder,0.59,0.55,0.64,0.81,0.41,0.46,0.8,0.94,0.78,0.48
+Leah, Teav, Mexico, Defender,0.16,0.68,0.59,0.58,0.82,0.52,0.53,0.7,0.22,0.56
+Tamatoa, Terzić, Wales, Defender,0.08,0.7,0.11,0.06,0.66,0.64,0.42,0.23,0.7,0.61
+Dušan, Terzić, Saudi Arabia, Goal Keeper,0.44,0.88,0.26,0.25,0.86,0.52,0.58,0.27,0.07,0.86
+Ema, Terzić, Ghana, Defender,0.43,0.6,0.31,0.12,0.51,0.85,0.59,0.66,0.46,0.89
+Manuel, Thanasi, Japan, Defender,0.7,0.66,0.45,0.25,0.99,0.57,0.79,0.74,0.65,0.7
+Widelene, Thomas, Ecuador, Defender,0.2,0.57,0.21,0.53,0.58,0.64,0.38,0.56,0.25,0.98
+Saqib, Thompson, Morocco, Defender,0.26,0.78,0.38,0.42,0.7,0.75,0.64,0.52,0.67,0.95
+Trinidad, Thomsen, Tunisia, Defender,0.26,0.68,0.29,0.38,0.95,0.8,0.38,0.6,0.79,0.75
+Hatice, Thomsen, Mexico, Forward,0.25,0.48,0.55,0.73,0.54,0.7,0.72,0.72,0.44,0.4
+Nuka, Thy, Spain, Defender,0.68,0.76,0.32,0.27,0.78,0.47,0.3,0.69,0.75,0.59
+Chien-hung, Tomić, Croatia, Goal Keeper,0.09,0.71,0.16,0.27,0.83,0.62,0.76,0.28,0.18,0.98
+Athanasios, Török, Serbia, Midfielder,0.39,0.64,0.64,0.4,0.48,0.69,0.88,0.53,0.73,0.85
+Abdullah, Tóth, Portugal, Defender,0.23,0.86,0.1,0.18,0.67,0.72,0.58,0.61,0.69,0.78
+Hawa, Tóth, France, Midfielder,0.98,0.88,0.34,0.8,0.73,0.4,0.64,0.57,0.98,0.61
+Noam, Tóth, Belgium, Defender,0.82,0.61,0.15,0.29,0.7,0.51,0.59,0.46,0.73,0.87
+Adrians, Tsui, Portugal, Midfielder,0.97,0.78,0.61,0.47,0.32,0.35,0.41,0.61,0.78,0.73
+Jayden, Tsui, Costa Rica, Forward,0.18,0.53,0.71,0.9,0.31,0.68,0.95,0.83,0.5,0.8
+Eisha, Tsui, Qatar, Midfielder,0.52,0.77,0.63,0.45,0.36,0.22,0.9,0.72,0.43,0.88
+Katla, Tsui, Australia, Forward,0.17,0.67,0.7,0.72,0.68,0.6,0.8,0.61,0.87,0.89
+Evie, Turk, Senegal, Defender,0.76,0.73,0.29,0.17,0.8,0.73,0.71,0.31,0.26,0.97
+Michalis, Ty, Canada, Forward,0.68,0.55,0.58,0.6,0.31,0.58,0.84,0.46,0.57,0.71
+Sergei, Uch, Uruguay, Forward,0.81,0.4,0.52,0.48,0.51,0.54,0.56,0.77,0.79,0.57
+Jokūbas, Uch, Japan, Midfielder,0.09,0.83,0.3,0.44,0.4,0.7,0.86,0.86,0.49,0.73
+Elena, Um, Tunisia, Defender,0.79,0.65,0.52,0.27,0.62,0.55,0.71,0.71,0.47,0.7
+Ana Paula, Um, Belgium, Defender,0.26,0.61,0.57,0.13,0.65,0.31,0.41,0.67,0.44,0.96
+Aziz, Um, Mexico, Defender,0.42,0.59,0.52,0.29,0.88,0.89,0.42,0.21,0.54,0.62
+Nomaan, Valentini, England, Forward,0.15,0.61,0.55,0.45,0.65,0.7,0.51,0.92,0.47,0.88
+Relja, Valenzuela, Wales, Forward,0.44,0.68,0.6,0.45,0.27,0.68,0.93,0.93,0.73,0.58
+Yusef, Valenzuela, Croatia, Forward,0.19,0.43,0.56,0.73,0.37,0.52,0.97,0.86,0.44,0.71
+Julie, Van den Berg, USA, Forward,0.82,0.53,0.78,0.52,0.4,0.79,0.53,0.46,0.99,0.79
+Benas, Van den Berg, Spain, Goal Keeper,0.13,0.51,0.31,0.26,0.89,0.96,0.66,0.37,0.09,0.87
+Barbare, Van den Berg, Canada, Midfielder,0.34,0.64,0.63,0.73,0.54,0.67,0.45,0.89,0.68,0.86
+Dragana, Van der Meer, Ecuador, Defender,0.52,0.85,0.5,0.08,0.97,0.51,0.73,0.76,0.67,0.81
+Adrianna, Van Dyk, Saudi Arabia, Defender,0.63,0.7,0.24,0.01,0.85,0.77,0.54,0.78,0.39,0.64
+Faisal, Van Dyk, Croatia, Forward,0.68,0.58,0.84,0.83,0.4,0.65,0.77,0.9,0.62,0.51
+Benas, Van Leeuwen, Morocco, Midfielder,0.9,0.77,0.79,0.7,0.71,0.71,0.57,0.53,0.74,0.56
+Théa, Van Leeuwen, Uruguay, Midfielder,0.37,0.7,0.75,0.79,0.34,0.29,0.45,0.42,0.4,0.4
+Lewis, Vardanyan, Senegal, Goal Keeper,0.27,0.77,0.47,0.25,0.74,0.5,0.57,0.23,0.16,0.9
+Carlos, Varela, Spain, Forward,0.27,0.59,0.57,0.81,0.48,0.36,0.75,0.98,0.33,0.56
+Martín, Varela, Denmark, Midfielder,0.52,0.63,0.55,0.33,0.47,0.41,0.73,0.43,0.55,0.51
+Lív, Varga, Wales, Defender,0.29,0.88,0.33,0.07,0.93,0.64,0.64,0.3,0.65,0.85
+Julija, Varga, Tunisia, Forward,0.28,0.47,0.63,0.77,0.47,0.3,0.81,0.67,0.75,0.59
+Francisco, Vargas, Poland, Defender,0.82,0.51,0.46,0.08,0.97,0.78,0.61,0.63,0.33,0.61
+Hanna, Vázquez, Saudi Arabia, Goal Keeper,0.39,0.76,0.4,0.3,0.95,0.44,0.71,0.37,0.12,0.84
+Dhia, Vázquez, Uruguay, Forward,0.8,0.47,0.89,0.87,0.46,0.38,0.48,0.97,0.73,0.79
+Franciszek, Vega, Morocco, Midfielder,0.49,0.8,0.31,0.59,0.61,0.6,0.94,0.72,0.32,0.52
+Violeta, Vega, Serbia, Midfielder,0.44,0.64,0.39,0.71,0.35,0.73,0.92,0.87,0.31,0.55
+Ashot, Velásquez, Portugal, Midfielder,0.95,0.73,0.75,0.61,0.34,0.49,0.83,0.92,0.72,0.69
+Relja, Velásquez, South Korea, Midfielder,0.95,0.69,0.61,0.75,0.64,0.63,0.95,0.88,0.64,0.86
+Niharika, Velásquez, Morocco, Forward,0.89,0.62,0.84,0.43,0.23,0.48,0.62,0.75,0.92,0.86
+Mareva, Villa, Wales, Defender,0.31,0.62,0.46,0.06,0.69,0.9,0.71,0.74,0.12,0.96
+Ammar, Villa, Senegal, Midfielder,0.07,0.89,0.59,0.32,0.35,0.71,0.41,0.83,0.91,0.4
+Juliana, Villalba, Netherlands, Midfielder,0.08,0.54,0.77,0.46,0.78,0.63,0.82,0.93,0.51,0.62
+Tehei, Villalba, Qatar, Goal Keeper,0.17,0.88,0.37,0.23,0.78,0.85,0.42,0.39,0.11,0.84
+Karitas, Villalobos, England, Forward,0.74,0.57,0.74,0.49,0.47,0.36,0.6,0.62,0.68,0.48
+Susanna, Villalobos, Argentina, Forward,0.14,0.67,0.78,0.9,0.42,0.37,0.83,0.72,0.37,0.63
+Ian, Villalobos, Ghana, Forward,0.76,0.46,0.83,0.93,0.61,0.54,0.69,0.88,0.86,0.52
+Paneeraq, Vitale, Costa Rica, Forward,0.53,0.63,0.7,0.65,0.42,0.3,0.96,0.53,0.67,0.61
+Teodor, Vuković, Germany, Forward,0.02,0.64,0.79,0.8,0.45,0.76,0.62,0.44,0.73,0.45
+Yasmin, Wagner, Wales, Midfielder,0.22,0.57,0.74,0.48,0.52,0.41,0.44,0.52,0.46,0.87
+Lilit, Walsh, Wales, Defender,0.34,0.81,0.12,0.47,0.75,0.85,0.78,0.25,0.33,0.93
+Abd, Walsh, South Korea, Midfielder,0.16,0.84,0.61,0.51,0.32,0.62,0.79,0.65,0.46,0.61
+Jayden, Wáng, France, Forward,0.89,0.48,0.74,0.87,0.48,0.3,0.44,0.8,0.48,0.88
+Gianna, Wáng, Uruguay, Midfielder,0.43,0.67,0.34,0.83,0.76,0.25,0.46,0.72,0.39,0.6
+Leo, Ward, Uruguay, Defender,0.51,0.88,0.31,0.5,0.81,0.76,0.38,0.59,0.55,0.79
+Beatriz, Weerasinghe, Costa Rica, Defender,0.64,0.79,0.2,0.01,0.8,0.7,0.67,0.68,0.77,0.5
+Poema, White, Wales, Defender,0.61,0.83,0.45,0.49,0.82,1.03,0.38,0.45,0.32,0.75
+Dragan, White, Brazil, Forward,0.98,0.55,0.8,0.97,0.38,0.56,0.88,0.91,0.35,0.64
+Pavle, White, Australia, Forward,0.72,0.48,0.53,0.89,0.32,0.72,0.54,0.96,0.71,0.55
+Sofiya, Williams, Portugal, Forward,0.74,0.68,0.76,0.43,0.38,0.41,0.53,0.89,0.39,0.64
+Djamel, Williams, Poland, Midfielder,0.08,0.62,0.64,0.48,0.71,0.37,0.89,0.65,0.76,0.66
+Sheikh, Williams, Japan, Forward,0.22,0.42,0.69,0.66,0.51,0.63,0.46,0.79,0.7,0.75
+Mohammad-Reza, Wimmer, Mexico, Forward,0.22,0.57,0.84,0.48,0.27,0.6,0.79,0.41,0.75,0.45
+Rabina, Winkler, Japan, Goal Keeper,0.3,0.73,0.45,0.32,0.72,0.62,0.95,0.3,0.09,0.81
+Ioane, Wong, Serbia, Forward,0.57,0.58,0.66,0.9,0.36,0.51,0.79,0.83,0.74,0.49
+Mary, Wouters, South Korea, Defender,0.96,0.82,0.28,0.37,0.96,0.66,0.65,0.33,0.41,0.97
+Naïm, Woźniak, Senegal, Forward,0.43,0.68,0.62,0.55,0.61,0.55,0.83,0.41,0.77,0.49
+Amal, Wright, South Korea, Forward,0.54,0.6,0.73,0.69,0.59,0.35,0.45,0.68,0.91,0.58
+Ayalah, Wu, Wales, Midfielder,0.25,0.52,0.35,0.43,0.46,0.21,0.88,0.83,0.78,0.44
+Andreas, Wu, Japan, Midfielder,0.73,0.83,0.31,0.89,0.66,0.27,0.51,0.88,0.95,0.73
+Seo-jun, Xú, Switzerland, Defender,0.37,0.59,0.42,0.28,0.7,0.51,0.32,0.34,0.66,0.58
+Aisultan, Xú, Mexico, Defender,0.84,0.8,0.31,0.01,0.59,0.89,0.37,0.72,0.42,0.86
+Niharika, Yang, Netherlands, Forward,0.3,0.64,0.54,0.7,0.62,0.4,0.4,0.67,0.67,0.88
+Bence, Yáng, Japan, Defender,0.14,0.61,0.15,0.46,0.96,0.78,0.75,0.7,0.6,0.71
+Armen, Yi, England, Defender,0.38,0.72,0.17,0.29,0.88,0.98,0.61,0.62,0.22,0.51
+María, Yi, Saudi Arabia, Midfielder,0.05,0.64,0.48,0.34,0.33,0.5,0.74,0.87,0.78,0.8
+Hussa, Youn, USA, Midfielder,0.11,0.59,0.42,0.46,0.35,0.7,0.66,0.42,0.34,0.5
+Aleksandar, Žagar, Qatar, Midfielder,0.32,0.8,0.55,0.56,0.75,0.73,0.84,0.49,0.53,0.76
+Julija, Žagar, Canada, Defender,0.25,0.55,0.56,0.4,0.88,0.9,0.88,0.32,0.15,0.74
+Simona, Zamora, Argentina, Defender,0.36,0.87,0.33,0.25,0.87,0.36,0.79,0.26,0.4,0.72
+Juliana, Zhāng, Spain, Forward,0.41,0.67,0.84,0.4,0.47,0.74,0.59,0.42,0.54,0.84
+Elizabeth, Zhōu, South Korea, Forward,0.38,0.68,0.88,0.66,0.22,0.43,0.53,0.97,0.81,0.61
+Esperanza, Zhōu, Ghana, Midfielder,0.21,0.51,0.61,0.78,0.75,0.71,0.75,0.67,0.69,0.65
+Jakov, Zhōu, Mexico, Forward,0.4,0.49,0.81,0.5,0.4,0.79,0.57,0.93,0.62,0.65
+Malu, Zhū, Ecuador, Defender,0.78,0.57,0.51,0.39,0.89,0.93,0.88,0.55,0.57,0.88
+Ayoub, Zhū, Switzerland, Forward,0.04,0.41,0.61,0.63,0.48,0.6,0.87,0.76,0.63,0.56
+Robin, Zieliński, Mexico, Midfielder,0.74,0.57,0.42,0.6,0.55,0.7,0.67,0.55,0.39,0.45
+Niko, Zukić, England, Midfielder,0.53,0.83,0.36,0.38,0.54,0.43,0.79,0.74,0.93,0.41
+Astrid, Zukić, Saudi Arabia, Forward,0.29,0.49,0.8,0.83,0.41,0.49,0.47,0.86,0.52,0.81
+Josefa, Zupančič, Iran, Forward,0.42,0.64,0.57,0.45,0.5,0.55,0.44,0.81,0.7,0.68
+Samvel, Zupančič, Uruguay, Midfielder,0.06,0.81,0.53,0.69,0.57,0.72,0.48,0.59,0.35,0.72
