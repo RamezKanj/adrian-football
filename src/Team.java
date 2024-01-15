@@ -28,7 +28,24 @@ public class Team extends Squad{
                     .append(" - Skill: ")
                     .append(String.format("%.2f", player.getOverallSkill())) // Format skill level to 2 decimal places
                     .append("\n");
+
         }
+        sb.append("Team Overall Skill: ").append(teamOverallSkill()).append("\n");
         return sb.toString();
     }
+
+    public double teamOverallSkill() {
+        double teamSkill = 0;
+        List<Player> players = getBestTeamPlayers();
+        if (players.isEmpty()) {
+            return 0; // Avoid division by zero if there are no players
+        }
+
+        for (Player player : players) {
+            teamSkill += player.getOverallSkill();
+        }
+
+        return teamSkill / players.size(); // Calculate average based on the actual number of players
+    }
+
 }
