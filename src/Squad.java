@@ -37,4 +37,8 @@ public class Squad {
     public Manager getManager() {
         return manager;
     }
+
+    public ArrayList<Player> getPlayers() {
+        return players;
+    }
 }

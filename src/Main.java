@@ -73,13 +73,64 @@ public class Main {
                 scannerManagers.close();
             }
         }
+
+
+        System.out.println(getTeam(squads[0]));
     }
 
     public static Team getTeam(Squad s){
-        Team t = new Team(s.getTeamName(), s.getManager());
 
-        return t;
+        String formation = s.getManager().getFavouredFormation();
+        String[] positions = formation.split("-");
+
+        List<Player> defenders = getBestPlayersByPosition(s.getPlayers(), "Defender", Integer.parseInt(positions[0]));
+        List<Player> midfielders = getBestPlayersByPosition(s.getPlayers(), "Midfielder", Integer.parseInt(positions[1]));
+        List<Player> forwards = getBestPlayersByPosition(s.getPlayers(), "Forward", Integer.parseInt(positions[2]));
+
+        Player goalkeeper = s.getPlayers().stream()
+                .filter(p -> p.getPosition().equalsIgnoreCase("Goal Keeper"))
+                .max(Comparator.comparingDouble(Player::getOverallSkill))
+                .orElse(null);
+
+        List<Player> teamPlayers = new ArrayList<>();
+        teamPlayers.addAll(defenders);
+        teamPlayers.addAll(midfielders);
+        teamPlayers.addAll(forwards);
+        if (goalkeeper != null) {
+            teamPlayers.add(goalkeeper);
+        }
+
+        return new Team(s.getTeamName(), s.getManager(), teamPlayers);
     }
+
+    private static List<Player> getBestPlayersByPosition(List<Player> players, String position, int number) {
+
+        List<Player> filteredPlayers = new ArrayList<>();
+        for (Player p : players) {
+            if (p.getPosition().equalsIgnoreCase(position)) {
+                filteredPlayers.add(p);
+            }
+        }
+
+
+        filteredPlayers.sort(Comparator.comparingDouble(Player::getOverallSkill).reversed());
+
+
+        List<Player> topPlayers = new ArrayList<>();
+        int count = 0;
+        for (Player p : filteredPlayers) {
+            if (count < number) {
+                topPlayers.add(p);
+                count++;
+            } else {
+                break;
+            }
+        }
+
+        return topPlayers;
+    }
+
+
 
     public static void runTournament(){
 

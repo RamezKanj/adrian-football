@@ -31,6 +31,11 @@ public class Player extends Person {
         this.offsideAdherence = offsideAdherence;
     }
 
+    public double getOverallSkill(){
+        return ((this.fitness + this.passingAccuracy + this.shotAccuracy + this.shotFrequency
+        + this.defensiveness + this.aggression + this.positioning + this.dribbling + this.chanceCreation + this.offsideAdherence) / 10);
+    }
+
     public String getPosition() {
         return position;
     }
