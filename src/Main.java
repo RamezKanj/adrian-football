@@ -74,7 +74,6 @@ public class Main {
             }
         }
 
-
         System.out.println(getTeam(squads[0]));
     }
 
@@ -83,12 +82,12 @@ public class Main {
         String formation = s.getManager().getFavouredFormation();
         String[] positions = formation.split("-");
 
-        List<Player> defenders = getBestPlayersByPosition(s.getPlayers(), "Defender", Integer.parseInt(positions[0]));
-        List<Player> midfielders = getBestPlayersByPosition(s.getPlayers(), "Midfielder", Integer.parseInt(positions[1]));
-        List<Player> forwards = getBestPlayersByPosition(s.getPlayers(), "Forward", Integer.parseInt(positions[2]));
+        List<Player> defenders = getBestPlayersByPosition(s.getPlayers(), " Defender", Integer.parseInt(positions[0]));
+        List<Player> midfielders = getBestPlayersByPosition(s.getPlayers(), " Midfielder", Integer.parseInt(positions[1]));
+        List<Player> forwards = getBestPlayersByPosition(s.getPlayers(), " Forward", Integer.parseInt(positions[2]));
 
         Player goalkeeper = s.getPlayers().stream()
-                .filter(p -> p.getPosition().equalsIgnoreCase("Goal Keeper"))
+                .filter(p -> p.getPosition().equalsIgnoreCase(" Goal Keeper"))
                 .max(Comparator.comparingDouble(Player::getOverallSkill))
                 .orElse(null);
 
@@ -103,7 +102,7 @@ public class Main {
         return new Team(s.getTeamName(), s.getManager(), teamPlayers);
     }
 
-    private static List<Player> getBestPlayersByPosition(List<Player> players, String position, int number) {
+    public static List<Player> getBestPlayersByPosition(List<Player> players, String position, int number) {
 
         List<Player> filteredPlayers = new ArrayList<>();
         for (Player p : players) {
